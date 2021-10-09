@@ -6,6 +6,8 @@ copyright = "&copy; 2016. All rights reserved."
 canonifyurls = true
 paginate = 10
 
+publishDir = "docs"
+
 [indexes]
   tag = "tags"
   topic = "topics"
@@ -102,3 +104,4 @@ paginate = 10
 
   # Other
   keybase = "*"
+
