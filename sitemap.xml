@@ -2,58 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.example.com/post/creating-a-new-theme/</loc>
+    <loc>https://ainet-lab.github.io/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/post/migrate-from-jekyll/</loc>
+    <loc>https://ainet-lab.github.io/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/</loc>
+    <loc>https://ainet-lab.github.io/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/post/</loc>
+    <loc>https://ainet-lab.github.io/post/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/about/</loc>
+    <loc>https://ainet-lab.github.io/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/contact/</loc>
+    <loc>https://ainet-lab.github.io/contact/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/post/goisforlovers/</loc>
+    <loc>https://ainet-lab.github.io/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/categories/</loc>
+    <loc>https://ainet-lab.github.io/categories/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/categories/development/</loc>
+    <loc>https://ainet-lab.github.io/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/tags/development/</loc>
+    <loc>https://ainet-lab.github.io/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/post/hugoisforlovers/</loc>
+    <loc>https://ainet-lab.github.io/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/tags/go/</loc>
+    <loc>https://ainet-lab.github.io/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/tags/golang/</loc>
+    <loc>https://ainet-lab.github.io/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/categories/golang/</loc>
+    <loc>https://ainet-lab.github.io/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/tags/hugo/</loc>
+    <loc>https://ainet-lab.github.io/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/tags/</loc>
+    <loc>https://ainet-lab.github.io/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/tags/templates/</loc>
+    <loc>https://ainet-lab.github.io/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/tags/themes/</loc>
+    <loc>https://ainet-lab.github.io/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
 </urlset>
