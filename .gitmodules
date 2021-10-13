@@ -1,0 +1,9 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/ainet-lab/ainet-lab.github.io.git
+[submodule "themes/blackburn"]
+	path = themes/blackburn
+	url = https://github.com/yoshiharuyamashita/blackburn.git
+[submodule "themes/academic"]
+	path = themes/academic
+	url = https://github.com/sourcethemes/academic-kickstart.git
