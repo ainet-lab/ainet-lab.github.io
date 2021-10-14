@@ -30,16 +30,12 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://ainet-lab.github.io/application/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Publications</title>
+      <link>https://ainet-lab.github.io/publication/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ainet-lab.github.io/application/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+      <guid>https://ainet-lab.github.io/publication/</guid>
+      <description>学術論文誌 - Journal Masashi Wakaiki, Katsuya Suto, and Izumi Masubuchi, “Cell Zooming with Masked Data for Off-Grid Small Cell Networks: Distributed Optimization Approach,” IEEE Transactions on Control Systems Technology, accepted. Katsuya Suto, Shinsuke Bannai, Koya Sato, Kei Inage, Koichi Adachi, and Takeo Fujii, “Image-Dri</description>
     </item>
     
     <item>
@@ -77,15 +73,6 @@ Setup Some fun facts about Hugo:
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>https://ainet-lab.github.io/publication/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://ainet-lab.github.io/publication/</guid>
-      <description>学術論文誌 Tiago Koketsu Rodrigues, Katsuya Suto, and Nei Kato, “Edge Cloud Server Deployment with Transmission Power Control through Machine Learning for 6G Internet of Things,” IEEE Transactions on Emerging Topics in Computing, published online, Dec. 2019. Tiago Koketsu Rodrigues, Katsuya Suto, Hiroki Nishiyama, Jiajia Liu, and Nei Kato, “Machin</description>
-    </item>
-    
-    <item>
       <title>(Hu)go Template Primer</title>
       <link>https://ainet-lab.github.io/post/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
@@ -107,6 +94,15 @@ More complete instructions are available at installing hugo
 Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
 Follow the following steps:
  Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title>研究室配属情報</title>
+      <link>https://ainet-lab.github.io/application/</link>
+      <pubDate>Fri, 14 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://ainet-lab.github.io/application/</guid>
+      <description>須藤研究室の紹介 本研究室に興味を持っていただきありがとうございます。 配属を希望する学生は応募フォームから面談の申し込みをお願いします。 他大学</description>
     </item>
     
   </channel>

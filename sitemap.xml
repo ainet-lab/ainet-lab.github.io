@@ -8,6 +8,9 @@
     <loc>https://ainet-lab.github.io/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ainet-lab.github.io/publication/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ainet-lab.github.io/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -20,9 +23,6 @@
     <loc>https://ainet-lab.github.io/tags/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ainet-lab.github.io/application/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ainet-lab.github.io/member/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -30,9 +30,6 @@
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ainet-lab.github.io/suto/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ainet-lab.github.io/publication/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ainet-lab.github.io/post/goisforlovers/</loc>
@@ -44,22 +41,16 @@
     <loc>https://ainet-lab.github.io/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ainet-lab.github.io/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ainet-lab.github.io/post/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ainet-lab.github.io/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ainet-lab.github.io/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ainet-lab.github.io/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ainet-lab.github.io/tags/hugo/</loc>
+    <loc>https://ainet-lab.github.io/categories/research/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ainet-lab.github.io/application/</loc>
+    <lastmod>2011-10-14T00:00:00+00:00</lastmod>
   </url>
 </urlset>
