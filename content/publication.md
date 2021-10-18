@@ -1,0 +1,65 @@
++++
+title = "Publications"
+date = "2021-10-14"
+sidemenu = "true"
+description = "Current statics: Citations 1000+, H-index 13"
++++
+
+<br></br>
+
+## 学術論文誌 - Journal
+1. Masashi Wakaiki, Katsuya Suto, and Izumi Masubuchi, “Cell Zooming with Masked Data for Off-Grid Small Cell Networks: Distributed Optimization Approach,” IEEE Transactions on Control Systems Technology, accepted.
+1. Katsuya Suto, Shinsuke Bannai, Koya Sato, Kei Inage, Koichi Adachi, and Takeo Fujii, “Image-Driven Spatial Interpolation with Deep Learning for Radio Map Construction,” IEEE Wireless Communications Letters, vol. 10, no. 6, pp. 1222-1226, June 2021.
+1. Koya Sato, Katsuya Suto, Kei Inage, Koichi Adachi, and Takeo Fujii, “Space-Frequency-Interpolated Radio Map,” IEEE Transactions on Vehicular Technology, vol. 70, no. 1, pp. 714-725, Jan. 2021.
+1. Tiago Koketsu Rodrigues, Katsuya Suto, Hiroki Nishiyama, Jiajia Liu, and Nei Kato, “Machine Learning meets Computation and Communication Control in Evolving Edge and Cloud,” IEEE Communications Surveys and Tutorials, vol. 22, no. 1, pp. 38-67, firstquarter 2020.
+1. Tiago Koketsu Rodrigues, Katsuya Suto, and Nei Kato, “Edge Cloud Server Deployment with Transmission Power Control through Machine Learning for 6G Internet of Things,” IEEE Transactions on Emerging Topics in Computing, Dec. 2019, published online.
+1.	Masashi Wakaiki, Katsuya Suto, Kenta Koiwa, Kang-Zhi Liu, and Tadanao Zanma, “A Control-Theoretic Approach for Cell Zooming of Energy Harvesting Small Cell Networks,” IEEE Transactions on Green Communications and Networking, vol. 3, no. 2, pp. 329-342, June 2019.
+1.	Katsuya Suto, Hiroki Nishiyama, Nei Kato, and Toshiaki Kuri, “Model Predictive Joint Transmit Power Control for Improving System Availability in Energy-Harvesting Wireless Mesh Networks,” IEEE Communications Letters, vol. 22, no. 10, pp. 2112-2115, Oct. 2018.
+1.	Tiago Gama Rodrigues, Katsuya Suto, Hiroki Nishiyama, and Nei Kato, “Cloudlets Activation Scheme for Scalable Mobile Edge Computing with Transmission Power Control and Virtual Machine Migration,” IEEE Transactions on Computers, vol. 67, no. 9, pp. 1287-1300, Sep. 2018. 
+1.	Shan Zhang, Peter He, Katsuya Suto, Peng Yang, Lian Zhao, and Sherman Shen, “Cooperative Edge Caching in User-Centric Clustered Mobile Networks,” IEEE Transactions on Mobile Computing, vol. 17, no. 8, pp. 1791-1805, Aug. 2018.
+1.	Kai Fan, Xin Wang, Katsuya Suto, Hui Li, and Yintang Yang, “Secure and Efficient Privacy-Preserving Ciphertext Retrieval in Connected Vehicular Cloud Computing,” IEEE Network, vol. 32, no. 3, pp. 52-57, June 2018.
+1.	Katsuya Suto, Hiroki Nishiyama, and Nei Kato, “Post-Disaster User Location Maneuvering Method for Improving the QoE Guaranteed Service Time Energy Harvesting Small Cell Networks,” IEEE Transactions on Vehicular Technology, vol. 66, no. 10, pp. 9410-9420, Oct. 2017. 
+1.	Hiroki Nishiyama, Katsuya Suto, and Hideki Kuribayashi, “Cyber Physical Systems for Intelligent Disaster Response Networks: Conceptual Proposal and Field Experiment,” IEEE Network, vol. 31, no. 4, pp. 120-128, July 2017. 
+1.	Tiago Gama Rodrigues, Katsuya Suto, Hiroki Nishiyama, and Nei Kato, “Hybrid Method for Minimizing Service Delay in Edge Cloud Computing through VM Migration and Transmission Power Control,” IEEE Transactions on Computers, vol. 66, no. 5, pp. 810-819, May 2017. 
+1.	Katsuya Suto, Keisuke Miyanabe, Hiroki Nishiyama, Nei Kato, Hirotaka Ujikawa, and Ken-Ichi Suzuki, “QoE-Guaranteed and Power-Efficient Network Operation for Cloud Radio Access Network with Power over Fiber,” IEEE Transactions on Computational Social Systems, vol. 2 no. 4, pp. 127-136, Feb. 2016. 
+1.	Keisuke Miyanabe, Katsuya Suto, Zubair Md. Fadlullah, Hiroki Nishiyama, Nei Kato, Hirotaka Ujikawa, and Ken-Ichi Suzuki, “A Cloud Radio Access Network with Power over Fiber toward 5G Network: QoE-Guaranteed Design and Operation,” IEEE Wireless Communications, vol. 22, no. 4, pp. 58-64, Aug. 2015. 
+1.	Katsuya Suto, Hiroki Nishiyama, Nei Kato, and Chih-Wei Huang, “An Energy-Efficient and Delay-Aware Wireless Computing System for Industrial Wireless Sensor Networks,” IEEE Access, vol. 3, pp.1026-1035, Jul. 2015. 
+1.	Katsuya Suto, Hiroki Nishiyama, Nei Kato, Kimihiro Mizutani, Osamu Akashi, and Atsushi Takahara, “An Overlay-based Data Mining Architecture Tolerant to Physical Network Disruptions,” IEEE Transactions on Emerging Topics in Computing, vol. 2, no. 3, pp. 292-301, Oct. 2014.
+1.	Katsuya Suto, Hiroki Nishiyama, Nei Kato, Takayuki Nakachi, Tatsuya Fujii, and Atsushi Takahara, “Toward Integrating Overlay and Physical Networks for Robust Parallel Processing Architecture,” IEEE Network, vol. 28, no. 4, pp. 40-45, Jul-Aug. 2014.
+1.	Katsuya Suto, Hiroki Nishiyama, Nei Kato, Takayuki Nakachi, Tatsuya Fujii, and Atsushi Takahara, “THUP: A P2P Network Robust to Churn and Attack based on Bimodal Degree Distribution,” IEEE Journal on Selected Areas in Communications, vol. 31, no. 9, pp. 247-256, Sep. 2013. 
+1.	Katsuya Suto, Hiroki Nishiyama, Sherman Shen, and Nei Kato, “Designing P2P Networks Tolerant to Attacks and Faults based on Bimodal Degree Distribution,” Academy Publisher Journal of Communications, vol. 7, no. 8, pp. 587-595, Aug. 2012.
+
+## 国際会議発表論文 - Conference
+1. 	Kohei Kato, Katsuya Suto, and Koya Sato, “Deterministic Video Streaming with Deep Learning Enabled Base Station Intervention for Stable Remote Driving System," IEEE International Conference on Communications workshop on TsDN, Online, June 2021, pp. 1-6.
+1. 	Takeru Terauchi, Katsuya Suto, and Masashi Wakaiki, “Harvest-Then-Transmit-Based TDMA Protocol with Statistical Channel State Information for Wireless Powered Sensor Networks," IEEE 93th Vehicular Technology Conference, Online, Apr. 2021, pp. 1-5.
+1. 	Shinsuke Bannai and Katsuya Suto, “Spatial Extrapolation with Generative Adversarial Networks forRadio Map Construction,"  International Conference on Emerging Technologies for Communications, Online, Dec. 2020, p. 1.
+1. 	Riku Hashimoto and Katsuya Suto, “On Radio Propagation Estimation based on Deep Learning withConvolution and Self-attention," International Conference on Emerging Technologies for Communications, Online, Dec. 2020, p. 1.
+1. 	Riku Hashimoto and Katsuya Suto, “SICNN: Spatial Interpolation with Convolutional Neural Networks for Radio Environment Mapping,” International Conference on Artificial Intelligence in Information and Communication, Fukuoka, Japan, Feb. 2020, pp. 1-4.
+1.	Katsuya Suto and Riku Hashimoto, “Crowdsensing Based Spectrum Database with Total Variation Regularization,” IEEE DySPAN 2019 Workshop on Data-Driven Dynamic Spectrum Sharing, Newark, USA, Nov. 2019, pp. 1-6.
+1.	Masashi Wakaiki, Katsuya Suto, and Izumi Masubuchi, “Privacy-preserved Cell Zooming with Distributed Optimization in Green Networks,” IEEE 90th Vehicular Technology Conference, Honolulu, USA, Sep. 2019, pp. 1-5.
+1.	Tiago Gama Rodrigues, Katsuya Suto, and Nei Kato, “Hyperparameter Study of Machine Learning Solutions for the Edge Server Deployment Problem,” IEEE 90th Vehicular Technology Conference, Honolulu, USA, Sep. 2019, pp. 1-5.
+1.	Masashi Wakaiki, Katsuya Suto, Kenta Koiwa, Kang-Zhi Liu, and Tadanao Zanma, “Model Predictive Cell Zooming for Energy-harvesting Small Cell Networks,” IEEE International Conference on Communications, Kansas, USA, May 2018, pp. 1-6.
+1.	Shan Zhang, Peter He, Katsuya Suto, Peng Yang, Lian Zhao, and Sherman Shen, “Traffic Steering Assisted Mobile Edge Caching: Exploiting Spatial Content Diversity Gain,” IEEE Global Communications Conference, Singapore, Dec. 2017, pp, 1-6.
+1.	Tiago Gama Rodrigues, Katsuya Suto, Hiroki Nishiyama, and Nei Kato, “A PSO Model with VM Migration and Transmission Power Control for Low Service Delay in the Multiple Cloudlets ECC Scenario,” IEEE International Conference on Communications, Paris, France, May 2017, pp. 1-6.
+1.	Katsuya Suto, Tiago Gama Rodrigues, Hiroki Nishiyama, Nei Kato, Hirotaka Ujikawa, and Ken-Ichi Suzuki, “QoE-Guaranteed and Sustainable User Position Guidance for Post-Disaster Cloud Radio Access Network,” IEEE Global Communications Conference, Washington, DC USA, Dec. 2016, pp. 1-6.
+1.	Tiago Gama Rodrigues, Katsuya Suto, Hiroki Nishiyama, Nei Kato, Kimihiro Mizutani, Takeru Inoue, and Osamu Akashi, “Towards a Low-Delay Edge Cloud Computing Through a Combined Communication and Computation Approach,” IEEE 84th Vehicular Technology Conference, Montreal, Canada, Sep. 2016, pp. 1-6. （招待論文）
+1.	Hideki Kuribayashi, Katsuya Suto, Hiroki Nishiyama, Nei Kato, Kimihiro Mizutani, Takeru Inoue, and Osamu Akashi, “A Mobility-Based Mode Selection Technique for Fair Spatial Dissemination of Data in Multi-Channel Device-to-Device Communication,” IEEE International Conference on Communications, Kuala Lumpur, Malaysia, May 2016, pp. 1-6. （最優秀論文賞受賞論文）
+1.	Yunseong Lee, Katsuya Suto, Hiroki Nishiyama, Nei Kato, Hirotaka Ujikawa, and Ken-Ichi Suzuki, “A Novel Network Design and Operation for Reducing Transmission Power in Cloud Radio Access Network with Power over Fiber,” IEEE/CIC International Conference on Communications in China, Shenzhen, China, Nov. 2015, pp. 1-5. （最優秀論文賞受賞論文）
+1.	Katsuya Suto, Hiroki Nishiyama, Nei Kato, Takayuki Nakachi, Toshikazu Sakano, and Atsushi Takahara, “A Failure-Tolerant and Spectrum-Efficient Wireless Data Center Network Design for Improving Performance of Big Date Mining,” IEEE 81th Vehicular Technology Conference, Glasgow, Scotland, May 2015, pp. 1-5. （奨励賞受賞論文）
+1.	Katsuya Suto, Hiroki Nishiyama, and Nei Kato, “Context-aware Task Allocation for Fast Parallel Big Data Processing in Optical-Wireless Networks,” International Wireless Communications and Mobile Computing Conference, Nicosia, Cyprus, Aug. 2014, pp. 423-428. （招待論文）
+1.	Shintaro Arai, Katsuya Suto, and Hiroki Nishiyama, “An Energy Efficient Upload Transmission Method in Storage-Embedded Wireless Mesh Networks,” IEEE International Conference on Communications, Sydney, Australia, Jun. 2014, pp. 2785-2790.
+1.	Katsuya Suto, Hiroki Nishiyama, Nei Kato, Takayuki Nakachi, Tatsuya Fujii, and Atsushi Takahara, “An Overlay Network Construction Technique for Minimizing the Impact of Physical Network Disruption in Cloud Storage Systems,” International Conference on Computing, Networking and Communications, Honolulu, Hawaii, USA, Feb. 2014, pp. 68-72.
+1.	Katsuya Suto, Panu Avakul, Hiroki Nishiyama, and Nei Kato, “An Efficient Data Transfer Method for Distributed Storage System over Satellite Networks,” IEEE 77th Vehicular Technology Conference, Dresden, Germany, Jun. 2013, pp. 1-5. （最優秀論文賞受賞論文）
+1.	Katsuya Suto, Hiroki Nishiyama, Hideaki Yoshino, Keisuke Ishibashi, and Nei Kato, “A Method to Construct an Attack and Fault Tolerant Scalable Distributed Network,” International Conference on Communications, Mobility, and Computing, Guilin, China, May 2012, pp. 1-5.
+
+
+## 招待講演 - Invited Talk
+1. 須藤克弥, "[招待講演] 電波環境イメージングの現状と将来展望," IEICE SR研究会, 2021年11月.
+
+## 寄稿記事・解説 - Conributed Article
+1. 須藤克弥, "デジタルツインを支える新たな無線通信システム," 電波技術協会会報 FORN, vol. 2021-7, no. 341, pp. 22-25, 2021年7月.
+
+## 国内学会・研究会発表論文 - Demestic Conference
+準備中
+## 特許 - Patent
+1. 須藤克弥, 坂内信允, "電波伝搬推定システム、電波伝搬推定方法および生成部の製造方法," 特願2020-204831, 2020年12月.

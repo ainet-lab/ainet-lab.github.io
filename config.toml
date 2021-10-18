@@ -1,0 +1,104 @@
+baseurl = "https://ainet-lab.github.io/"
+languageCode = "ja-jp"
+title = "AINet Lab @ UEC"
+# theme = "blackburn"
+author = "Katsuya Suto"
+copyright = "&copy; 2021. All rights reserved."
+canonifyurls = true
+paginate = 10
+hasCJKLanguage = true
+[markup.goldmark.renderer]
+  unsafe = true
+
+[indexes]
+  tag = "tags"
+  topic = "topics"
+
+[params]
+  # Shown in the home page
+  #subtitle = "電気通信大学須藤研究室"
+   subtitle = "Innovative Wireless Networking/Applicaitons with AI technology"
+  brand = "AINet Lab"
+  # googleAnalytics = "Your Google Analytics tracking ID"
+  # disqus = "Your Disqus shortname"
+  # CSS name for highlight.js
+  highlightjs = "androidstudio"
+  dateFormat = "2006年 1月 2日"
+  mathjax = true
+
+[menu]
+  # Shown in the side menu.
+  [[menu.main]]
+    name = "Home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 1
+    identifier = "home"
+    url = "/"
+  [[menu.main]]
+    name = "About Suto (EN)"
+    pre = "<i class='fa fa-dog fa-fw'></i>"
+    weight = 3
+    identifier = "Prof. Suto"
+    url = "/suto/"
+  [[menu.main]]
+    name = "Research"
+    pre = "<i class='fa fa-laptop fa-fw'></i>"
+    weight = 2
+    identifier = "Research"
+    # url = "/research/"
+    url = "/categories/Research/"
+  [[menu.main]]
+    name = "Members"
+    pre = "<i class='fa fa-user fa-fw'></i>"
+    weight = 4
+    identifier = "member"
+    url = "/member/"
+   [[menu.main]]
+    name = "Publications"
+    pre = "<i class='fa fa-book fa-fw'></i>"
+    weight = 5
+    identifier = "publication"
+    url = "/publication/"
+  [[menu.main]]
+    name = "Posts"
+    pre = "<i class='fa fa-newspaper fa-fw'></i>"
+    weight = 6
+    identifier = "blog"
+    url = "/post/"
+  [[menu.main]]
+    name = "Applications"
+    pre = "<i class='fa fa-glasses fa-fw'></i>"
+    weight = 7
+    identifier = "For Applications"
+    url = "/application/"
+
+[social]
+  # Link your social networking accouns to the side menu
+  # by entering your username or ID.
+  #twitter="*"
+  # gnusocial="*"
+  #facebook="*"
+  # weibo="*"
+  # tumblr="*"
+  #instagram="*"
+  # flickr="*"
+  # photo500px="*"
+  # pinterest="*"
+  #youtube="https://www.youtube.com/channel/UCfRJvCJLKoG3c_Xl0Ze2ePw"
+  # vimeo="*"
+  # vine="*"
+  # slideshare="*"
+  # linkedin="*"
+  # xing="*"
+  # reddit="*"
+  # hackernews="*"
+  # github="yoshiharuyamashita"
+  # gitlab="*"
+  # bitbucket="*"
+  # stackoverflow="*"
+  # serverfault="*"
+  # steam="*"
+  # mobygames="*"
+  # lastfm="*"
+  # discogs="*"
+  # keybase="*"
