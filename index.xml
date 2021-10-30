@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>&amp;copy; 2021. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 14 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ainet-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ainet-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>研究室HP更新しました</title>
       <link>https://ainet-lab.github.io/post/publish/</link>
@@ -15,6 +15,15 @@
       
       <guid>https://ainet-lab.github.io/post/publish/</guid>
       <description>須藤研究室のWeb PageをGithub pages + Hugoの環境に移行しました． テーマはシンプルで使いやすいblackburnを使っています． 開発</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ainet-lab.github.io/post/20211030/</link>
+      <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ainet-lab.github.io/post/20211030/</guid>
+      <description>面談をする際はこちらから連絡をお願いします． メールでの連絡の場合対応が遅くなる可能性があります．</description>
     </item>
     
     <item>
