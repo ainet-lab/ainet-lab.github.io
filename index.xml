@@ -9,21 +9,12 @@
     <copyright>&amp;copy; 2021. All rights reserved.</copyright>
     <lastBuildDate>Sat, 30 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ainet-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>研究室HP更新しました</title>
-      <link>https://ainet-lab.github.io/post/publish/</link>
-      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ainet-lab.github.io/post/publish/</guid>
-      <description>須藤研究室のWeb PageをGithub pages + Hugoの環境に移行しました． テーマはシンプルで使いやすいblackburnを使っています． 開発</description>
-    </item>
-    
-    <item>
-      <title></title>
+      <title>卒研配属の学生へ</title>
       <link>https://ainet-lab.github.io/post/20211030/</link>
       <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ainet-lab.github.io/post/20211030/</guid>
-      <description>面談をする際はこちらから連絡をお願いします． メールでの連絡の場合対応が遅くなる可能性があります．</description>
+      <description>研究室配属に関するページこちらをクリックを参照して，google formから面談の連絡をお願いします． メールでの連絡の場合対応が遅くなる可能</description>
     </item>
     
     <item>
@@ -42,6 +33,15 @@
       
       <guid>https://ainet-lab.github.io/publication/</guid>
       <description>学術論文誌 - Journal Masashi Wakaiki, Katsuya Suto, and Izumi Masubuchi, “Cell Zooming with Masked Data for Off-Grid Small Cell Networks: Distributed Optimization Approach,” IEEE Transactions on Control Systems Technology, accepted. Katsuya Suto, Shinsuke Bannai, Koya Sato, Kei Inage, Koichi Adachi, and Takeo Fujii, “Image-Dri</description>
+    </item>
+    
+    <item>
+      <title>研究室HP更新しました</title>
+      <link>https://ainet-lab.github.io/post/publish/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ainet-lab.github.io/post/publish/</guid>
+      <description>須藤研究室のWeb PageをGithub pages + Hugoの環境に移行しました． テーマはシンプルで使いやすいblackburnを使っています． 開発</description>
     </item>
     
     <item>
