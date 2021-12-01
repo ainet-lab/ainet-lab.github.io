@@ -128,5 +128,14 @@ Setup Some fun facts about Hugo:
       <description>須藤研究室の紹介 本研究室に興味を持っていただきありがとうございます。 配属を希望する学生は応募フォームから面談の申し込みをお願いします（土日は</description>
     </item>
     
+    <item>
+      <title>電子情報通信学会誌にて記事を寄稿</title>
+      <link>https://ainet-lab.github.io/post/20211201/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ainet-lab.github.io/post/20211201/</guid>
+      <description>須藤助教の共著論文「電波環境の可視化」が2021年12月発行の電子情報通信学会誌にて発表されました．</description>
+    </item>
+    
   </channel>
 </rss>
