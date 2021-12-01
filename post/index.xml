@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>&amp;copy; 2021. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 04 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ainet-lab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ainet-lab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>電子情報通信学会誌にて記事を寄稿</title>
+      <link>https://ainet-lab.github.io/post/20211201/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ainet-lab.github.io/post/20211201/</guid>
+      <description>須藤助教の共著論文「電波環境の可視化」が2021年12月発行の電子情報通信学会誌にて発表されました．</description>
+    </item>
+    
     <item>
       <title>須藤助教がIEICE SR研究会で依頼公演</title>
       <link>https://ainet-lab.github.io/post/20211104/</link>
@@ -78,15 +87,6 @@
       
       <guid>https://ainet-lab.github.io/post/202110181/</guid>
       <description>2021年07月14日~16日に開催された電子情報通信学会SR研究会@Zoomで寺内（M2）が「無線給電センサネットワークにおける統計的チャ</description>
-    </item>
-    
-    <item>
-      <title>電子情報通信学会誌にて記事を寄稿</title>
-      <link>https://ainet-lab.github.io/post/20211201/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ainet-lab.github.io/post/20211201/</guid>
-      <description>須藤助教の共著論文「電波環境の可視化」が2021年12月発行の電子情報通信学会誌にて発表されました．</description>
     </item>
     
   </channel>
