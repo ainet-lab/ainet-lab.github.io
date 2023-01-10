@@ -7,13 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>&amp;copy; 2021. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 08 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ainet-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ainet-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>須藤助教が電子情報通信学会SR研@福岡で発表</title>
+      <title>山田（M1）がIEEE CCNC2023@Las Vegasで発表</title>
       <link>https://ainet-lab.github.io/post/20221108/</link>
-      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://ainet-lab.github.io/post/20221108/</guid>
+      <description>2023年1月8日~11日に米国ネバダ州ラスベガスで開催されたCCNC2023で修士1年山田が「Exploring Pseudo-Analog Video Transmission for Edge-AI Vision Applica</description>
+    </item>
+    
+    <item>
+      <title>須藤助教が電子情報通信学会SR研@福岡で発表</title>
+      <link>https://ainet-lab.github.io/post/20230109/</link>
+      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ainet-lab.github.io/post/20230109/</guid>
       <description>2022年11月7日~8日に福岡県博多市で開催されたスマート無線研究会で須藤助教が「ドローンを用いた電波観測による3次元空間補間性能の実験的</description>
     </item>
     
