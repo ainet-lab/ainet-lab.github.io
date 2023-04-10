@@ -3,7 +3,6 @@ author: "Katsuya Suto"
 date: 2021-10-14
 linktitle: 研究室HP更新しました
 title: 研究室HP更新しました
-weight: 10
 ---
 
 須藤研究室のWeb PageをGithub pages + Hugoの環境に移行しました．  
