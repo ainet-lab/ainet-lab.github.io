@@ -7,25 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>&amp;copy; 2021. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 24 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ainet-lab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>RadioTwin：無線資源を正確に認識・制御</title>
-      <link>https://ainet-lab.github.io/post/rt/</link>
-      <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://ainet-lab.github.io/post/rt/</guid>
-      <description>概要 現実世界をデジタル空間上に構築し、モニタリングやシミュレーションを行うことで、あらゆる社会サービスをより良くする意思決定を行うデジタルツ</description>
-    </item>
-    
-    <item>
-      <title>SemCom：意味を伝えるための通信方式</title>
-      <link>https://ainet-lab.github.io/post/sc/</link>
-      <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://ainet-lab.github.io/post/sc/</guid>
-      <description>概要 これまでの通信技術は送りたい情報を全て確実に伝送することを目的として設計されてきました。一方、送信者と受信者で同じコンテキストを持つので</description>
-    </item>
-    
+    <lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ainet-lab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>藤井（M2）、山田（M2）が電子情報通信学会SR研@室蘭で発表</title>
       <link>https://ainet-lab.github.io/post/20230512/</link>
@@ -213,6 +195,24 @@
       
       <guid>https://ainet-lab.github.io/post/202110181/</guid>
       <description>2021年07月14日~16日に開催された電子情報通信学会SR研究会@Zoomで寺内（M2）が「無線給電センサネットワークにおける統計的チャ</description>
+    </item>
+    
+    <item>
+      <title>RadioTwin：無線資源を正確に認識・制御</title>
+      <link>https://ainet-lab.github.io/post/rt/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ainet-lab.github.io/post/rt/</guid>
+      <description>概要 現実世界をデジタル空間上に構築し、モニタリングやシミュレーションを行うことで、あらゆる社会サービスをより良くする意思決定を行うデジタルツ</description>
+    </item>
+    
+    <item>
+      <title>SemCom：意味を伝えるための通信方式</title>
+      <link>https://ainet-lab.github.io/post/sc/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ainet-lab.github.io/post/sc/</guid>
+      <description>概要 これまでの通信技術は送りたい情報を全て確実に伝送することを目的として設計されてきました。一方、送信者と受信者で同じコンテキストを持つので</description>
     </item>
     
   </channel>
