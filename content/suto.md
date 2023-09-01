@@ -7,7 +7,7 @@ sidemenu = "true"
 
 {{< fluid_img class="pure-u-1-4" src="/image/suto.jpg">}}
 
-Katsuya Suto received the B.Sc. degree in computer engineering from Iwate University, Morioka, Japan, in 2011, and the M.Sc. and Ph.D. degrees in information science from Tohoku University, Sendai, Japan, in 2013 and 2016, respectively. He has worked as a Postdoctoral Fellow for Research Abroad, Japan Society for the Promotion of Science, in the Broadband Communications Research Lab., University of Waterloo, ON, Canada, from 2016 to 2018. He is currently an Associate Professor with the Graduate School of Informatics and Engineering, the University of Electro-Communications, Tokyo, Japan. His research interests include mobile edge computing, cognitive radio, green wireless networking, and deep learning. He received the Best Paper Award at the IEEE VTC2013-spring, the IEEE/CIC ICCC2015, the IEEE ICC2016, and the IEEE Transactions on Computers in 2018. He served as Guest Editor for the Peer-to-Peer Networking and Applications in 2020, the IEEE Transactions on Cognitive Communications and Networking in 2019, and the International Journal of Distributed Sensor Networks in 2017. He is currently Associate Editor of the International Journal of Computers and Applications. He is a member of IEEE and IEICE.
+Katsuya Suto received the B.Sc. degree in computer engineering from Iwate University, Morioka, Japan, in 2011, and the M.Sc. and Ph.D. degrees in information science from Tohoku University, Sendai, Japan, in 2013 and 2016, respectively. He has worked as a Postdoctoral Fellow for Research Abroad, Japan Society for the Promotion of Science, in the Broadband Communications Research Lab., University of Waterloo, ON, Canada, from 2016 to 2018. He is an Associate Professor with the Graduate School of Informatics and Engineering, the University of Electro-Communications, Tokyo, Japan. His research interests include semantic communications, radio propagation, deep learning, and graph representation. He received the Best Paper Award at the IEEE VTC2013-spring, the IEEE/CIC ICCC2015, the IEEE ICC2016, and the IEEE Transactions on Computers in 2018. He is currently the Associate Editor of the International Journal of Computers and Applications. He is a member of IEEE and IEICE.
 
 ---
 
@@ -42,8 +42,9 @@ Katsuya Suto received the B.Sc. degree in computer engineering from Iwate Univer
 - JSPS Grant-in-Aid for Young Scientists (FY2019-FY2021)
 
 ### Co Investigator 
+- MIC Strategic Information and Communications R&D Promotion Programme (FY2023)
 - Commissioned Research by Ministry of Economy, Trade and Industry (FY2021-FY2025)
-- Commissioned Research by National Institute of Information and Communications Technology (FY2021-FY2024)
+- Commissioned Research by National Institute of Information and Communications Technology (FY2021-FY2022)
 - Commissioned Research by Ministry of Internal Affairs and Communications (FY2019-FY2020)
 - JSPS Fostering Joint International Research (B) (FY2018-FY2021)
 
@@ -65,11 +66,14 @@ Katsuya Suto received the B.Sc. degree in computer engineering from Iwate Univer
 - Guest Editor, International Journal of Distributed Sensor Networks, SI: Space Information Networks: Architectures, Technologies, and Applications
 - Guest Editor, International Journal of Distributed Sensor Networks, SI: Sustainable Cognitive Radio Sensor Networks
 
-### Conference Organization
+### Conference Organization-Chair
 - Publicity Co-chair, Workshop on Pervasive Network Intelligence for 6G networks, IEEE International Conference on Computer Communications 2023 (INFOCOM 2023)
 - TPC Co-Chair, IEEE/CIC International Conference on Communications in China (ICCC 2023)
-- TPC member, IEEE Consumer Communications & Networking Conference 2022 (CCNC 2023)
 - Publicity Co-chair, Workshop on Pervasive Network Intelligence for 6G networks, IEEE International Conference on Computer Communications 2022 (INFOCOM 2022)
+### Conference Organization-Member
+- TPC member, IEEE 98th Vehicular Technology Conference (VTC2023-Fall)　
+- TPC member, IEEE 97th Vehicular Technology Conference (VTC2023-Spring)
+- TPC member, IEEE Consumer Communications & Networking Conference 2022 (CCNC 2023)
 - TPC member, IEEE Consumer Communications & Networking Conference 2022 (CCNC 2022)
 - TPC member, IEEE 94th Vehicular Technology Conference (VTC2021-Fall)
 - TPC member, IEEE 92nd Vehicular Technology Conference (VTC2020-Fall)
@@ -80,6 +84,7 @@ Katsuya Suto received the B.Sc. degree in computer engineering from Iwate Univer
 - TPC member, The 4th International Conference on Emerging Ubiquitous Systems and Pervasive Networks (EUSPN2013)
 
 ## Honors and Awards for Supervised Students
+- IEEE VTS Japan Chapter Young Researcher’s Encouragement Award, Masaaki Miura (June 2023)
 - IEICE 2021 Young Researcher of the Year Award in Smart Radio, Takeru Terauchi (Mar. 2022)
 - IEEE VTS Japan Chapter Young Researcher’s Encouragement Award, Takeru Terauchi (Apr. 2021)
 - The NEC C&C Foundation Grants for Researchers Attending International Conferences, Takeru Terauchi (Apr. 2021)

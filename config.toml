@@ -66,11 +66,17 @@ hasCJKLanguage = true
     identifier = "blog"
     url = "/post/"
   [[menu.main]]
-    name = "Applications"
+    name = "Application"
     pre = "<i class='fa fa-glasses fa-fw'></i>"
     weight = 7
-    identifier = "For Applications"
+    identifier = "For domestic students "
     url = "/application/"
+      [[menu.main]]
+    name = "Application (EN)"
+    pre = "<i class='fa fa-plane fa-fw'></i>"
+    weight = 8
+    identifier = "For international students"
+    url = "/application_en/"
 
 [social]
   # Link your social networking accouns to the side menu
