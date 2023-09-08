@@ -31,8 +31,8 @@ Link to [Journal](#journal), [Conference](#conference), [Invited Paper](#invite)
 1.	Katsuya Suto, Hiroki Nishiyama, Sherman Shen, and Nei Kato, “Designing P2P Networks Tolerant to Attacks and Faults based on Bimodal Degree Distribution,” Academy Publisher Journal of Communications, vol. 7, no. 8, pp. 587-595, Aug. 2012.
 
 ## 国際会議発表論文 - Conference {#conference}
-1. Shota Yamada, Takeo Fujii, Katsuya Suto, and Koya Sato, "Observation Data and 3D Map-Based Radio Environment Estimation for Drone Wireless Communications," ICUFN2023 Workshop on SRIoT, July 2023 (Accepted).
-2. Masaaki Miura, Katsuya Suto, Koya Sato, and Onel Luis Alcaraz López, "Performance Analysis for IRS-Assisted SWIPT with Optimal Phase Shift under Spatially Correlated Fading Channels," IEEE 97th Vehicular Technology Conference, June 2023 (Accepted).
+1. Shota Yamada, Takeo Fujii, Katsuya Suto, and Koya Sato, "Observation Data and 3D Map-Based Radio Environment Estimation for Drone Wireless Communications," ICUFN2023 Workshop on SRIoT, July 2023, pp. 70-75.
+2. Masaaki Miura, Katsuya Suto, Koya Sato, and Onel Luis Alcaraz López, "Performance Analysis for IRS-Assisted SWIPT with Optimal Phase Shift under Spatially Correlated Fading Channels," IEEE 97th Vehicular Technology Conference, June 2023, pp. 1-5.
 3. Katsuya Suto, Shinsuke Bannai, Koya Sato, and Takeo Fujii, "Propagation Graph Representation Learning and Its Implementation in Direct Path Representation," 8th IEEE WCNC International Workshop on Smart Spectrum (IWSS 2023), Mar. 2023, pp. 1-6.
 4. Junichiro Yamada and Katsuya Suto, “[Poster] Exploring Pseudo-Analog Video Transmission for Edge-AI Vision Applications," IEEE Consumer Communications & Networking Conference 2023, Jan. 2023, pp. 1-2.
 5. 	Kohei Kato, Katsuya Suto, and Koya Sato, “Deterministic Video Streaming with Deep Learning Enabled Base Station Intervention for Stable Remote Driving System," IEEE International Conference on Communications Workshop on TsDN, Online, June 2021, pp. 1-6.

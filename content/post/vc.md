@@ -9,7 +9,7 @@ categories = ["research"]
 Under construction
 
 ## 関連業績
-1. Shinsuke Bannai and Katsuya Suto, "Stereo-Aided Blockage Prediction for mmWave V2X Communicatio," submitted to ICNC2024.
+1. Shinsuke Bannai and Katsuya Suto, "Stereo-Aided Blockage Prediction for mmWave V2X Communications," submitted.
 2. Masaaki Miura, Katsuya Suto, Koya Sato, and Onel Luis Alcaraz López, “Performance Analysis for IRS-Assisted SWIPT with Optimal Phase Shift under Spatially Correlated Fading Channels,” IEEE 97th Vehicular Technology Conference, June 2023.
 
 

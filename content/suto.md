@@ -71,6 +71,7 @@ Katsuya Suto received the B.Sc. degree in computer engineering from Iwate Univer
 - TPC Co-Chair, IEEE/CIC International Conference on Communications in China (ICCC 2023)
 - Publicity Co-chair, Workshop on Pervasive Network Intelligence for 6G networks, IEEE International Conference on Computer Communications 2022 (INFOCOM 2022)
 ### Conference Organization-Member
+- TPC member, IEEE Consumer Communications & Networking Conference 2022 (CCNC 2024)
 - TPC member, IEEE 98th Vehicular Technology Conference (VTC2023-Fall)　
 - TPC member, IEEE 97th Vehicular Technology Conference (VTC2023-Spring)
 - TPC member, IEEE Consumer Communications & Networking Conference 2022 (CCNC 2023)
