@@ -243,6 +243,15 @@
     </item>
     
     <item>
+      <title>ExtremeComm：エクストリーム環境での通信技術</title>
+      <link>https://ainet-lab.github.io/post/vc/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ainet-lab.github.io/post/vc/</guid>
+      <description>概要 Under construction 関連業績 Shinsuke Bannai and Katsuya Suto, &amp;ldquo;Stereo-Aided Blockage Prediction for mmWave V2X Communications,&amp;rdquo; submitted. Masaaki Miura, Katsuya Suto, Koya Sato, and Onel Luis Alcaraz López, “Performance Analysis for IRS-Assisted SWIPT with Optimal Phase Shift under Spatially Correlated Fading Channels,</description>
+    </item>
+    
+    <item>
       <title>RadioTwin：無線資源を正確に認識・制御</title>
       <link>https://ainet-lab.github.io/post/rt/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -258,15 +267,6 @@
       
       <guid>https://ainet-lab.github.io/post/sc/</guid>
       <description>概要 これまでの通信技術は送りたい情報を全て確実に伝送することを目的として設計されてきました。一方、人間のコミュニケーションでは、少ない情報か</description>
-    </item>
-    
-    <item>
-      <title>VisionComm：コンピュータービジョンを活用した無線通信</title>
-      <link>https://ainet-lab.github.io/post/vc/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ainet-lab.github.io/post/vc/</guid>
-      <description>概要 Under construction 関連業績 Shinsuke Bannai and Katsuya Suto, &amp;ldquo;Stereo-Aided Blockage Prediction for mmWave V2X Communications,&amp;rdquo; submitted. Masaaki Miura, Katsuya Suto, Koya Sato, and Onel Luis Alcaraz López, “Performance Analysis for IRS-Assisted SWIPT with Optimal Phase Shift under Spatially Correlated Fading Channels,</description>
     </item>
     
     <item>
