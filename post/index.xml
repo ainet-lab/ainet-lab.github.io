@@ -9,6 +9,33 @@
     <copyright>&amp;copy; 2021. All rights reserved.</copyright>
     <lastBuildDate>Sun, 10 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ainet-lab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>RadioTwin：無線資源を正確に認識・制御</title>
+      <link>https://ainet-lab.github.io/post/rt/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ainet-lab.github.io/post/rt/</guid>
+      <description>概要 現実世界をデジタル空間上に構築し、モニタリングやシミュレーションを行うことで、あらゆる社会サービスをより良くする意思決定を行うデジタルツ</description>
+    </item>
+    
+    <item>
+      <title>SemanticComm：コミュニケーションしながら進化する通信方式</title>
+      <link>https://ainet-lab.github.io/post/sc/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ainet-lab.github.io/post/sc/</guid>
+      <description>概要 これまでの通信技術は送りたい情報を全て確実に伝送することを目的として設計されてきました。一方、人間のコミュニケーションでは、少ない情報か</description>
+    </item>
+    
+    <item>
+      <title>ExtremeComm：エクストリーム環境での通信技術</title>
+      <link>https://ainet-lab.github.io/post/vc/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ainet-lab.github.io/post/vc/</guid>
+      <description>概要 Under construction 関連業績 Shinsuke Bannai and Katsuya Suto, &amp;ldquo;Stereo-Aided Blockage Prediction for mmWave V2X Communications,&amp;rdquo; submitted. Masaaki Miura, Katsuya Suto, Koya Sato, and Onel Luis Alcaraz López, “Performance Analysis for IRS-Assisted SWIPT with Optimal Phase Shift under Spatially Correlated Fading Channels,</description>
+    </item>
+    
+    <item>
       <title>須藤准教授が10th UEC Seminar in ASEAN，5th ASEAN – UEC Workshop on Informatics and Engineering@バンコクで発表</title>
       <link>https://ainet-lab.github.io/post/20230910/</link>
       <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
@@ -213,33 +240,6 @@
       
       <guid>https://ainet-lab.github.io/post/202110181/</guid>
       <description>2021年07月14日~16日に開催された電子情報通信学会SR研究会@Zoomで寺内（M2）が「無線給電センサネットワークにおける統計的チャ</description>
-    </item>
-    
-    <item>
-      <title>ExtremeComm：エクストリーム環境での通信技術</title>
-      <link>https://ainet-lab.github.io/post/vc/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ainet-lab.github.io/post/vc/</guid>
-      <description>概要 Under construction 関連業績 Shinsuke Bannai and Katsuya Suto, &amp;ldquo;Stereo-Aided Blockage Prediction for mmWave V2X Communications,&amp;rdquo; submitted. Masaaki Miura, Katsuya Suto, Koya Sato, and Onel Luis Alcaraz López, “Performance Analysis for IRS-Assisted SWIPT with Optimal Phase Shift under Spatially Correlated Fading Channels,</description>
-    </item>
-    
-    <item>
-      <title>RadioTwin：無線資源を正確に認識・制御</title>
-      <link>https://ainet-lab.github.io/post/rt/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ainet-lab.github.io/post/rt/</guid>
-      <description>概要 現実世界をデジタル空間上に構築し、モニタリングやシミュレーションを行うことで、あらゆる社会サービスをより良くする意思決定を行うデジタルツ</description>
-    </item>
-    
-    <item>
-      <title>SemanticComm：コミュニケーションしながら進化する通信方式</title>
-      <link>https://ainet-lab.github.io/post/sc/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ainet-lab.github.io/post/sc/</guid>
-      <description>概要 これまでの通信技術は送りたい情報を全て確実に伝送することを目的として設計されてきました。一方、人間のコミュニケーションでは、少ない情報か</description>
     </item>
     
   </channel>
