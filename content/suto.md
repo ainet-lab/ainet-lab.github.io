@@ -71,18 +71,12 @@ Katsuya Suto received the B.Sc. degree in computer engineering from Iwate Univer
 - TPC Co-Chair, IEEE/CIC International Conference on Communications in China (ICCC 2023)
 - Publicity Co-chair, Workshop on Pervasive Network Intelligence for 6G networks, IEEE International Conference on Computer Communications 2022 (INFOCOM 2022)
 ### Conference Organization-Member
-- TPC member, IEEE Consumer Communications & Networking Conference 2022 (CCNC 2024)
-- TPC member, IEEE 98th Vehicular Technology Conference (VTC2023-Fall)　
-- TPC member, IEEE 97th Vehicular Technology Conference (VTC2023-Spring)
-- TPC member, IEEE Consumer Communications & Networking Conference 2022 (CCNC 2023)
-- TPC member, IEEE Consumer Communications & Networking Conference 2022 (CCNC 2022)
-- TPC member, IEEE 94th Vehicular Technology Conference (VTC2021-Fall)
-- TPC member, IEEE 92nd Vehicular Technology Conference (VTC2020-Fall)
-- TPC member, IEEE 86th Vehicular Technology Conference (VTC2017-Fall)
-- TPC member, IEEE International Conference on Communications 2017 (ICC 2017)
-- TPC member, IEEE 59th Global Communications Conference (GLOBECOM 2016)
-- TPC member, IEEE 84th Vehicular Technology Conference (VTC2016-Fall)
-- TPC member, The 4th International Conference on Emerging Ubiquitous Systems and Pervasive Networks (EUSPN2013)
+- TPC member, IEEE Consumer Communications & Networking Conference (CCNC), 2022, 2023, 2024
+- TPC member, IEEE Vehicular Technology Conference (VTC), 2016-Fall, 2017-Fall, 2020-Fall, 2021-Fall, 2023-Spring, 2023-Fall
+- TPC member, IEEE International Conference on Communications (ICC), 2017
+- TPC member, IEEE Global Communications Conference (GLOBECOM), 2016
+- TPC member, International Conference on Artificial Intelligence in Information and Communication (ICAIIC), 2024
+- TPC member, International Conference on Emerging Ubiquitous Systems and Pervasive Networks (EUSPN), 2013
 
 ## Honors and Awards for Supervised Students
 - IEEE VTS Japan Chapter Young Researcher’s Encouragement Award, Masaaki Miura (June 2023)
