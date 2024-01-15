@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>&amp;copy; 2021. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 10 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ainet-lab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>山田（M2）、三浦（M1）がIEEE CCNC2024@ラスベガスで発表</title>
+      <link>https://ainet-lab.github.io/post/20240107/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://ainet-lab.github.io/post/20240107/</guid>
+      <description>2024年1月6日-9日に宮城県仙台市で開催されたスマート無線研究会で山田（M2）が「Deep Joint Source-Channel Coding with Optimal Compression Rate for mmWave Mobile Image Transmission</description>
+    </item>
     <item>
       <title>坂内（M2）、付（M1）、須藤准教授が11月SR研究会@仙台市で発表</title>
       <link>https://ainet-lab.github.io/post/20231110/</link>
