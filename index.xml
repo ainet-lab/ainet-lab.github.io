@@ -241,6 +241,13 @@
       <description>概要 これまでの通信技術は送りたい情報を全て確実に伝送することを目的として設計されてきました。一方、人間のコミュニケーションでは、少ない情報か</description>
     </item>
     <item>
+      <title>情報伝送基礎：Fundamentals of Information Transmission</title>
+      <link>https://ainet-lab.github.io/post/fit/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ainet-lab.github.io/post/fit/</guid>
+      <description>Google Classromで情報を公開します。クラスコードは講義中にお伝えいたします。</description>
+    </item>
+    <item>
       <title>About</title>
       <link>https://ainet-lab.github.io/research/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>

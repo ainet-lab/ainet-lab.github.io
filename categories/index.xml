@@ -10,6 +10,13 @@
     <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ainet-lab.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>lecture</title>
+      <link>https://ainet-lab.github.io/categories/lecture/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ainet-lab.github.io/categories/lecture/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>research</title>
       <link>https://ainet-lab.github.io/categories/research/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
