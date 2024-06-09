@@ -1,0 +1,21 @@
++++
+title = "JST ASPIRE"
+description = ""
+date = "2021-01-01"
+categories = ["Research"]
++++
+
+## About This Project
+Resilient Cyberspace Generative Framework with Communication, Sensing and Learning Integration (ReCygne) is a JST ASPIRE project consisting of Japan resaerch team (UEC and TIT) and UOulue and UWindsor. ReCygne aimst to develop a cutting-edge cyber-physical fralework for resilient society development with aritifical intelligence. For this purpose, we have research collabtation with three technical experts, i.e., semantic communications, data-drive sensing, and distributed learning.
+## Team
+- PI: Dr. Katsuya Suto, The University of Electro-Communications
+- Co-PI: Dr. Takayuki Nishio, Tokyo Institute of Technology
+- Co-PI: Dr. Koya Sato, The University of Electro-Communications
+- PI in Candada: Dr. Ning Zhang, University of Windsor
+- PI in Finland: Dr. Mehdi Bennis, University of Oulu
+
+## Research Achivement
+to be updated
+
+## Video
+to be updated

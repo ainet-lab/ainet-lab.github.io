@@ -2,7 +2,7 @@
 title = "RadioTwin：無線資源を正確に認識・制御"
 description = ""
 date = "2021-01-01"
-categories = ["research"]
+categories = ["Research"]
 +++
 
 ## 概要
@@ -17,10 +17,11 @@ categories = ["research"]
 - 屋外環境における移動通信網の通信カバレッジ拡大
 
 ## 関連業績
-1. Katsuya Suto, Shinsuke Bannai, Koya Sato, and Takeo Fujii, "Propagation Graph Representation Learning and Its Implementation in Direct Path Representation," 8th IEEE WCNC International Workshop on Smart Spectrum (IWSS 2023), Mar. 2023 pp. 1-6.
-1. Katsuya Suto, Shinsuke Bannai, Koya Sato, Kei Inage, Koichi Adachi, and Takeo Fujii, “Image-Driven Spatial Interpolation with Deep Learning for Radio Map Construction,” IEEE Wireless Communications Letters, vol. 10, no. 6, pp. 1222-1226, June 2021.
-2. Koya Sato, Katsuya Suto, Kei Inage, Koichi Adachi, and Takeo Fujii, “Space-Frequency-Interpolated Radio Map,” IEEE Transactions on Vehicular Technology, vol. 70, no. 1, pp. 714-725, Jan. 2021.
-3. 須藤克弥, 坂内信允, "電波伝搬推定システム、電波伝搬推定方法および生成部の製造方法," 特願2020-204831, 2020年12月.
+1. Masaaki Miura, Katsuya Suto, Koya Sato, and Onel Luis Alcaraz López, “Performance Analysis for IRS-Assisted SWIPT with Optimal Phase Shift under Spatially Correlated Fading Channels,” IEEE 97th Vehicular Technology Conference, June 2023, pp. 1-6.
+2. Katsuya Suto, Shinsuke Bannai, Koya Sato, and Takeo Fujii, "Propagation Graph Representation Learning and Its Implementation in Direct Path Representation," 8th IEEE WCNC International Workshop on Smart Spectrum (IWSS 2023), Mar. 2023, pp. 1-6.
+3. Katsuya Suto, Shinsuke Bannai, Koya Sato, Kei Inage, Koichi Adachi, and Takeo Fujii, “Image-Driven Spatial Interpolation with Deep Learning for Radio Map Construction,” IEEE Wireless Communications Letters, vol. 10, no. 6, pp. 1222-1226, June 2021.
+4. Koya Sato, Katsuya Suto, Kei Inage, Koichi Adachi, and Takeo Fujii, “Space-Frequency-Interpolated Radio Map,” IEEE Transactions on Vehicular Technology, vol. 70, no. 1, pp. 714-725, Jan. 2021.
+5. 須藤克弥, 坂内信允, "電波伝搬推定システム、電波伝搬推定方法および生成部の製造方法," 特願2020-204831, 2020年12月.
 
 ## Youtube
 {{< youtube SVQ9G8Chdeg>}}

@@ -77,6 +77,12 @@ hasCJKLanguage = true
     weight = 8
     identifier = "For international students"
     url = "/application_en/"
+    [[menu.main]]
+    name = "Lecture"
+    pre = "<i class='fa fa-user fa-fw'></i>"
+    weight = 9
+    identifier = "Lecture"
+    url = "/categories/lecture/"
 
 [social]
   # Link your social networking accouns to the side menu

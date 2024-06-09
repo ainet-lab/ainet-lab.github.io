@@ -2,7 +2,7 @@
 title = "SemanticComm：コミュニケーションしながら進化する通信方式"
 description = ""
 date = "2021-01-01"
-categories = ["research"]
+categories = ["Research"]
 +++
 
 ## 概要
