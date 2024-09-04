@@ -64,6 +64,7 @@ Katsuya Suto received the B.Sc. degree in computer engineering from Iwate Univer
 ### Associate Editors
 - Associate Editor, International Journal of Computers and Applications (2020-2024)
 ### Guest Editors
+- Guest Editor, IEEE Wireless Communications Special Issue on Digital Twins and Pervasive Intelligence Synergy in 6G and Beyond
 - Guest Editor, IEEE Journal on Miniaturization for Air and Space Systems Special Issue on Network Intelligence for Unmanned Aerial Vehicles
 - Guest Editor, MDPI Sensors Special Issue on RF Energy Harvesting and Wireless Power Transfer for IoT
 - Guest Editor, IEEE Transactions on Vehicular Technology Special Issue on Cybertwin-driven 6G for V2X Applications

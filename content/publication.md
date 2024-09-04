@@ -66,14 +66,15 @@ Link to [Journal](#journal), [Conference](#conference), [Invited Paper](#invite)
 
 
 ## 招待講演，チュートリアル - Invited Talk, Tutorial {#invite}
-1. 須藤克弥, "[パネルセッション]深化・学際化する無線分野における人材育成のあり方,” 第５回電波利活用強靭化に向けた電波COEシンポジウム, 2024年6月.
-2. Katsuya Suto, "Deep Learning and Its Applications to Radio Map Construction (Keynote)," The 5th ASEAN – UEC Workshop on Informatics and Engineering, Sep. 2023.
-3. Katsuya Suto, "Deep Learning and Its Applications to Radio Map Construction (Tutorial)," The 4th International Conference on Artificial Intelligence in Information and Communication, Feb. 2022.
-4. 須藤克弥, "[チュートリアル講演]電波伝搬推定における深層学習の基礎と応用,” PIF・PN研究会共催チュートリアル講演会, 2022年2月.
-5. Katsuya Suto, "How We Recognize Radio Environment with Deep Learning (Tutorial)," IEICE SmartCom Virtual Workshop, Jan. 2022. [Slide](https://ainet-lab.github.io/pdf/lecture_smartcom.pdf)
-6. 須藤克弥, "[依頼講演] 電波環境イメージングの現状と将来展望," IEICE SR研究会, 2021年11月.
-7. 須藤克弥, "[依頼講演] 3次元地図から電波マップを構築する深層生成モデル技術," 「将来無線のレイヤレスデザインとその応用」研究会, Feb 2021.
-8. Katsuya Suto, "Crowdsensing-based Spectrum Database for IoT with Intelligence (Invited Talk)," Northeast Asia Symposium on IoT with Intelligence 2019, Sept. 2019.
+1. 須藤克弥, "[招待講演]自動運転を支える意味を伝える映像伝送技術,” IEEE Japan Council Engineer Spotlight, 2024年9月.
+2. 須藤克弥, "[パネルセッション]深化・学際化する無線分野における人材育成のあり方,” 第５回電波利活用強靭化に向けた電波COEシンポジウム, 2024年6月.
+3. Katsuya Suto, "Deep Learning and Its Applications to Radio Map Construction (Keynote)," The 5th ASEAN – UEC Workshop on Informatics and Engineering, Sep. 2023.
+4. Katsuya Suto, "Deep Learning and Its Applications to Radio Map Construction (Tutorial)," The 4th International Conference on Artificial Intelligence in Information and Communication, Feb. 2022.
+5. 須藤克弥, "[チュートリアル講演]電波伝搬推定における深層学習の基礎と応用,” PIF・PN研究会共催チュートリアル講演会, 2022年2月.
+6. Katsuya Suto, "How We Recognize Radio Environment with Deep Learning (Tutorial)," IEICE SmartCom Virtual Workshop, Jan. 2022. [Slide](https://ainet-lab.github.io/pdf/lecture_smartcom.pdf)
+7. 須藤克弥, "[依頼講演] 電波環境イメージングの現状と将来展望," IEICE SR研究会, 2021年11月.
+8. 須藤克弥, "[依頼講演] 3次元地図から電波マップを構築する深層生成モデル技術," 「将来無線のレイヤレスデザインとその応用」研究会, Feb 2021.
+9.  Katsuya Suto, "Crowdsensing-based Spectrum Database for IoT with Intelligence (Invited Talk)," Northeast Asia Symposium on IoT with Intelligence 2019, Sept. 2019.
 
 ## 寄稿記事・解説 - Contributed Article {#contribution}
 1. 須藤克弥, "深層学習による電波環境可視化技術〜B5G時代の自動運転、ドローンの通信信頼性〜," 車載テクノロジー, vol. 11, no. 3, pp. 59-64, 2023年12月.

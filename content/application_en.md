@@ -4,7 +4,7 @@ date = "2011-10-14"
 sidemenu = "False"
 +++
 
-We are looking for highly motivated master, PhD studens, and visitign scholars/students. If intersted, please feel free to contact me with your CV.
+We are looking for highly motivated master, PhD studens, and visiting scholars. If intersted, please feel free to contact me with your CV.
 
 Our research topics of interst include but are not limited to:
 
