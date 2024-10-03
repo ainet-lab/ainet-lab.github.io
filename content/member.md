@@ -23,13 +23,13 @@ sidemenu = "true"
 <br>|<br> 
 {{< fluid_img class="pure-u-1-2" src="/image/matsumura.jpg">}}|松村一冴（Issa Matsumura）<br> <small>修士1年<br>研究：分散型学習</small>
 <br>|<br> 
-{{< fluid_img class="pure-u-1-2" src="/image/ito.jpg">}}|伊藤大貴（Daiki Ito）<br> <small>学部4年<br>研究：未定</small>
+{{< fluid_img class="pure-u-1-2" src="/image/ito.jpg">}}|伊藤大貴（Daiki Ito）<br> <small>学部4年<br>研究：室内環境における電波伝搬グラフ表現学習</small>
 <br>|<br> 
-{{< fluid_img class="pure-u-1-2" src="/image/tajino.jpg">}}|太治野輝（Hikaru Tajino）<br> <small>学部4年<br>研究：未定</small>
+{{< fluid_img class="pure-u-1-2" src="/image/tajino.jpg">}}|太治野輝（Hikaru Tajino）<br> <small>学部4年<br>研究：VR向け映像伝送</small>
 <br>|<br> 
-{{< fluid_img class="pure-u-1-2" src="/image/munk.jpg">}}|Khuderchuluun Munkhtulga <br> <small>学部4年<br>研究：未定</small>
+{{< fluid_img class="pure-u-1-2" src="/image/munk.jpg">}}|Khuderchuluun Munkhtulga <br> <small>学部4年<br>研究：多視点映像伝送</small>
 <br>|<br> 
-{{< fluid_img class="pure-u-1-2" src="/image/li.jpg">}}|李春亭（Li Chunting）<br> <small>研究生<br>研究：未定</small>
+{{< fluid_img class="pure-u-1-2" src="/image/yu.jpg">}}|喩佳嬈 (Yu Jiarao)<br> <small>研究生<br>研究：深層ソース・チャネル符号化における敵対的攻撃</small>
 <br>|<br> 
 
 ## Alumni
@@ -44,3 +44,5 @@ sidemenu = "true"
   - 宮入健（FY2022）
   - 橋本理公（FY2019）
   - 池田駿斗（FY2018）
+- 研究生
+  - 李春亭（FY2024）

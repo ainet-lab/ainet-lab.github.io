@@ -24,6 +24,7 @@ Katsuya Suto received the B.Sc. degree in computer engineering from Iwate Univer
 - B.Sc., Iwate University, Japan (2011)
 
 ## Honors and Awards
+- IEICE Communications Society Distinguished Contributions Award (Sep. 2024)
 - IEICE 2022 Young Researcher of the Year Award in Smart Radio (Jan. 2023)
 - IEEE Transactions on Computers 2018 Best Paper Award (Nov. 2019)
 - IEEE ICC 2016 Best Paper Award (May 2016)
@@ -86,6 +87,7 @@ Katsuya Suto received the B.Sc. degree in computer engineering from Iwate Univer
 - TPC member, IEEE Global Communications Conference (GLOBECOM), 2016
 - TPC member, International Conference on Artificial Intelligence in Information and Communication (ICAIIC), 2024
 - TPC member, International Conference on Emerging Ubiquitous Systems and Pervasive Networks (EUSPN), 2013
+- TPC member, IEICE Society Conference, 2024
 
 ## Honors and Awards for Supervised Students
 - UEC Meguro-kai Award, Issa Matsumura (Mar. 2024)
