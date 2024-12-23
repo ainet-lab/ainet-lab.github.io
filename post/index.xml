@@ -4,7 +4,7 @@
     <title>Posts on AINet Lab @ UEC</title>
     <link>https://ainet-lab.github.io/post/</link>
     <description>Recent content in Posts on AINet Lab @ UEC</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>ja-jp</language>
     <copyright>&amp;copy; 2021. All rights reserved.</copyright>
     <lastBuildDate>Sat, 14 Sep 2024 00:00:00 +0000</lastBuildDate>
@@ -14,238 +14,238 @@
       <link>https://ainet-lab.github.io/post/20240914/</link>
       <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20240914/</guid>
-      <description>2024年9月14日に開催された第36回IEEE Engineer Spotlightにて須藤准教授が「自動運転を支える意味を伝える映像伝送技術」について招待</description>
+      <description>&lt;p&gt;2024年9月14日に開催された第36回IEEE Engineer Spotlightにて須藤准教授が「自動運転を支える意味を伝える映像伝送技術」について招待講演を行いました。&#xA;企画いただいたIEEE ITS Society Tokyo Chapterの皆様、ご参加頂いた皆様ありがとうございました。&#xA;なお、本発表の一部はJST ASPIREの助成を受けたものです。&lt;/p&gt;</description>
     </item>
     <item>
       <title>高木（M1）がPIMRC2024@バレンシアで発表</title>
       <link>https://ainet-lab.github.io/post/20240901/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20240901/</guid>
-      <description>2024年9月2日-5日にスペインバレンシアで開催されたPIMRC2024で高木（M1）が「Radio Propagation Graph Representation Learning: An Implementation in Multi-Hop Path Representa</description>
+      <description>&lt;p&gt;2024年9月2日-5日にスペインバレンシアで開催されたPIMRC2024で高木（M1）が「Radio Propagation Graph Representation Learning: An Implementation in Multi-Hop Path Representation」について口頭発表しました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>須藤准教授が電波COEシンポジウムにてパネル講演</title>
       <link>https://ainet-lab.github.io/post/20240607/</link>
       <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20240607/</guid>
-      <description>2024年6月7日に開催された第５回 電波利活用強靭化に向けた電波COEシンポジウムで須藤准教授が「深化・学際化する無線分野における人材育成の</description>
+      <description>&lt;p&gt;2024年6月7日に開催された第５回 電波利活用強靭化に向けた電波COEシンポジウムで須藤准教授が「深化・学際化する無線分野における人材育成のあり方」のパネリストとして参加し、講演を行いました。&#xA;企画いただいた株式会社国際電気通信基礎技術研究所の皆様ありがとうございました。&lt;/p&gt;</description>
     </item>
     <item>
       <title>坂内（M2）がICNC2024@ハワイで発表</title>
       <link>https://ainet-lab.github.io/post/20240220/</link>
       <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20240220/</guid>
-      <description>2024年2月19日-22日に米国ハワイで開催されたICNC2024で坂内（M2）が「Stereo-Aided Blockage Prediction for mmWave V2X Communicat</description>
+      <description>&lt;p&gt;2024年2月19日-22日に米国ハワイで開催されたICNC2024で坂内（M2）が「Stereo-Aided Blockage Prediction for mmWave V2X Communications」について口頭発表しました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>山田（M2）、三浦（M1）がIEEE CCNC2024@ラスベガスで発表</title>
       <link>https://ainet-lab.github.io/post/20240107/</link>
       <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20240107/</guid>
-      <description>2024年1月6日-9日に米国ラスベガスで開催されたIEEE CCNC2024で山田（M2）が「Deep Joint Source-Channel Coding with Optimal Compression Rate for mmWave Mobile Image Transmis</description>
+      <description>&lt;p&gt;2024年1月6日-9日に米国ラスベガスで開催されたIEEE CCNC2024で山田（M2）が「Deep Joint Source-Channel Coding with Optimal Compression Rate for mmWave Mobile Image Transmission」、三浦（M1）が「Performance Analysis for IRS-Assisted SWIPT with Geometry-Based Phase Shift」についてそれぞれポスター発表しました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>坂内（M2）、付（M1）、須藤准教授が11月SR研究会@仙台市で発表</title>
       <link>https://ainet-lab.github.io/post/20231110/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20231110/</guid>
-      <description>2023年11月9日-10日に宮城県仙台市で開催されたスマート無線研究会で坂内（M2）が「ミリ波V2X通信におけるステレオビジョンによる高速</description>
+      <description>&lt;p&gt;2023年11月9日-10日に宮城県仙台市で開催されたスマート無線研究会で坂内（M2）が「ミリ波V2X通信におけるステレオビジョンによる高速な遮蔽予測」、付（M1）が「Deep Joint Source Channel Codingにおける視覚的秘匿性を向上するためのモデル共有・学習方式」、須藤准教授が「情報源・通信路深層結合符号におけるモデル伝送に関する一考察」についてそれぞれ口頭発表しました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>坂内（M2）、三浦（M1）、高木（B4）がMIKA2023@沖縄で発表</title>
       <link>https://ainet-lab.github.io/post/20231010/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20231010/</guid>
-      <description>2023年10月10日-12日に沖縄那覇市で開催されたMIKA2023で坂内（M2）が「ミリ波V2X通信におけるステレオカメラを用いた遮蔽予</description>
+      <description>&lt;p&gt;2023年10月10日-12日に沖縄那覇市で開催されたMIKA2023で坂内（M2）が「ミリ波V2X通信におけるステレオカメラを用いた遮蔽予測」、三浦（M1）が「空間相関を有するライスフェージングチャネルにおけるIRS-Assisted SWIPTの性能解析」、高木（B4）が「電波伝搬グラフ表現学習におけるフレネルゾーンを用いたパス構築」についてそれぞれポスター発表しました&lt;/p&gt;</description>
     </item>
     <item>
       <title>須藤准教授が10th UEC Seminar in ASEAN，5th ASEAN – UEC Workshop on Informatics and Engineering@バンコクで発表</title>
       <link>https://ainet-lab.github.io/post/20230910/</link>
       <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20230910/</guid>
-      <description>2023年9月9日，10日にバンコクで開催された10th UEC Seminar in ASEAN，5th ASEAN – UEC Workshop on Informatics and Engineeringでそれぞれ「Intern</description>
+      <description>&lt;p&gt;2023年9月9日，10日にバンコクで開催された10th UEC Seminar in ASEAN，5th ASEAN – UEC Workshop on Informatics and Engineeringでそれぞれ「International Collaboration Activities for AI-based Wireless Networking Development」，「Deep Learning and Its Applications to Radio Map Construction」について基調講演を行いました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>須藤准教授が電子情報通信学会SR研@大阪で発表</title>
       <link>https://ainet-lab.github.io/post/20230712/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20230712/</guid>
-      <description>2023年7月12日~14日に大阪府大阪市で開催されたスマート無線研究会で須藤准教授が「電波伝搬グラフ表現学習 」について口頭発表を行いました</description>
+      <description>&lt;p&gt;2023年7月12日~14日に大阪府大阪市で開催されたスマート無線研究会で須藤准教授が「電波伝搬グラフ表現学習 」について口頭発表を行いました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>三浦（M1）がIEEE VTC2023Spring@フィレンツェで発表し，研究奨励賞を受賞</title>
       <link>https://ainet-lab.github.io/post/20230622/</link>
       <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20230622/</guid>
-      <description>2023年6月20日~23日にイタリアフィレンツェで開催されたVTC2023Springで修士1年三浦が「Performance Analysis for IRS-Assisted SWIPT with Optimal</description>
+      <description>&lt;p&gt;2023年6月20日~23日にイタリアフィレンツェで開催されたVTC2023Springで修士1年三浦が「Performance Analysis for IRS-Assisted SWIPT with Optimal Phase Shift under Spatially Correlated Fading Channels」について発表を行い，IEEE VTS Tokyo/Japan Chapter Young Researcher’s Encouragement Awardを受賞しました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>藤井（M2）、山田（M2）が電子情報通信学会SR研@室蘭で発表</title>
       <link>https://ainet-lab.github.io/post/20230512/</link>
       <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20230512/</guid>
-      <description>2023年5月11日~12日に北海道室蘭市で開催されたスマート無線研究会で藤井（M2）が「ヌル化を用いた情報信号のパス分離によるセキュアなS</description>
+      <description>&lt;p&gt;2023年5月11日~12日に北海道室蘭市で開催されたスマート無線研究会で藤井（M2）が「ヌル化を用いた情報信号のパス分離によるセキュアなSWIPT」、山田（M2）が「圧縮率可変なDeep Joint Source Channel Coding」について口頭発表を行いました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>須藤准教授が2022年度スマート無線研究会研究奨励賞を受賞</title>
       <link>https://ainet-lab.github.io/post/20230314/</link>
       <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20230314/</guid>
-      <description>須藤准教授が、電子情報通信学会スマート無線（SR）研究会より、2022年度スマート無線研究会研究奨励賞を受賞しました。 本賞は、2022年度の</description>
+      <description>&lt;p&gt;須藤准教授が、電子情報通信学会スマート無線（SR）研究会より、2022年度スマート無線研究会研究奨励賞を受賞しました。&#xA;本賞は、2022年度のスマート無線研究会における一般講演において、最も優秀な研究発表を行った若手発表者3名に授与されるものです。&lt;/p&gt;</description>
     </item>
     <item>
       <title>須藤助教が准教授に昇任</title>
       <link>https://ainet-lab.github.io/post/20230307/</link>
       <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20230307/</guid>
-      <description>須藤助教が三月七日付で准教授に昇任しました。</description>
+      <description>&lt;p&gt;須藤助教が三月七日付で准教授に昇任しました。&lt;/p&gt;</description>
     </item>
     <item>
       <title>美濃（M1）が電子情報通信学会NS研@沖縄で発表</title>
       <link>https://ainet-lab.github.io/post/20230302/</link>
       <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20230302/</guid>
-      <description>2022年3月2日~3日に沖縄県宜野湾市で開催されたネットワークシステム研究会で美濃（M1）が「超解像を活用したWebRTCにおける軽量深層</description>
+      <description>&lt;p&gt;2022年3月2日~3日に沖縄県宜野湾市で開催されたネットワークシステム研究会で美濃（M1）が「超解像を活用したWebRTCにおける軽量深層学習モデルに関する検討」について口頭発表を行いました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>山田（M1）がIEEE CCNC2023@Las Vegasで発表</title>
       <link>https://ainet-lab.github.io/post/20230109/</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20230109/</guid>
-      <description>2023年1月8日~11日に米国ネバダ州ラスベガスで開催されたCCNC2023で修士1年山田が「Exploring Pseudo-Analog Video Transmission for Edge-AI Vision Applica</description>
+      <description>&lt;p&gt;2023年1月8日~11日に米国ネバダ州ラスベガスで開催されたCCNC2023で修士1年山田が「Exploring Pseudo-Analog Video Transmission for Edge-AI Vision Applications」についてポスター発表を行いました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>須藤助教が電子情報通信学会SR研@福岡で発表</title>
       <link>https://ainet-lab.github.io/post/20221108/</link>
       <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20221108/</guid>
-      <description>2022年11月7日~8日に福岡県博多市で開催されたスマート無線研究会で須藤助教が「ドローンを用いた電波観測による3次元空間補間性能の実験的</description>
+      <description>&lt;p&gt;2022年11月7日~8日に福岡県博多市で開催されたスマート無線研究会で須藤助教が「ドローンを用いた電波観測による3次元空間補間性能の実験的評価 」について口頭発表を行いました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>山田(M1)が電子情報通信学会RISING研究会@京都で発表</title>
       <link>https://ainet-lab.github.io/post/20221031/</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20221031/</guid>
-      <description>2022年10月31日~11月2日に京都府京都市で開催されたRISING研究会で山田（M1）が「インフラ協調型自動運転における疑似アナログ通</description>
+      <description>&lt;p&gt;2022年10月31日~11月2日に京都府京都市で開催されたRISING研究会で山田（M1）が「インフラ協調型自動運転における疑似アナログ通信を介した物体検知」についてポスター発表を行いました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>藤井(M1)、山田(M1)が電子情報通信学会SR研究会@金沢で発表</title>
       <link>https://ainet-lab.github.io/post/20220723/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20220723/</guid>
-      <description>2022年07月13日~15日に石川県金沢で開催されたSR研究会で藤井(M1)が「静的遮蔽空間における通信品質改善のためのIRS配置手法」、</description>
+      <description>&lt;p&gt;2022年07月13日~15日に石川県金沢で開催されたSR研究会で藤井(M1)が「静的遮蔽空間における通信品質改善のためのIRS配置手法」、山田（M1）が「疑似アナログ通信方式を用いた物体検出AIの精度評価」の発表を行いました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>坂内(M1)が電子情報通信学会SR研究会@Zoomで発表</title>
       <link>https://ainet-lab.github.io/post/20220304/</link>
       <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20220304/</guid>
-      <description>2022年03月2日~4日に開催された電子情報通信学会SR研究会@Zoomで坂内（M1）が「低SNR信号を含む電波環境における距離減衰モデル</description>
+      <description>&lt;p&gt;2022年03月2日~4日に開催された電子情報通信学会SR研究会@Zoomで坂内（M1）が「低SNR信号を含む電波環境における距離減衰モデルに関する研究」の発表を行いました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>寺内(M2)が2021年度スマート無線研究会研究奨励賞を受賞</title>
       <link>https://ainet-lab.github.io/post/20220303/</link>
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20220303/</guid>
-      <description>修士2年の寺内健が、電子情報通信学会スマート無線（SR）研究会より、2021年度スマート無線研究会研究奨励賞を受賞しました。 本賞は、2021</description>
+      <description>&lt;p&gt;修士2年の寺内健が、電子情報通信学会スマート無線（SR）研究会より、2021年度スマート無線研究会研究奨励賞を受賞しました。&#xA;本賞は、2021年度のスマート無線研究会における一般講演において、最も優秀な研究発表を行った若手発表者3名に授与されるものです。&lt;/p&gt;</description>
     </item>
     <item>
       <title>須藤助教が国際会議ICAIIC2022でチュートリアル講演</title>
       <link>https://ainet-lab.github.io/post/20220221/</link>
       <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20220221/</guid>
-      <description>2022年02月21日-24日に開催されたInternational Conference on Artificial Intelligence in Information and Communication 2022で須藤助教がDeep Learning and Its Applications to Radio Map Constru</description>
+      <description>&lt;p&gt;2022年02月21日-24日に開催されたInternational Conference on Artificial Intelligence in Information and Communication 2022で須藤助教がDeep Learning and Its Applications to Radio Map Constructionについてチュートリアル講演を行いました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>須藤助教がPIF・PN研究会共催「チュートリアル講演会」で講演</title>
       <link>https://ainet-lab.github.io/post/20220218/</link>
       <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20220218/</guid>
-      <description>2022年02月18日に開催されたPIF・PN研究会チュートリアル講演会@Zoomで須藤助教が「電波伝搬推定における深層学習の基礎と応用」の</description>
+      <description>&lt;p&gt;2022年02月18日に開催されたPIF・PN研究会チュートリアル講演会@Zoomで須藤助教が「電波伝搬推定における深層学習の基礎と応用」の発表を行いました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>須藤助教がSmartCom Virtual Workshop@Zoomで講演</title>
       <link>https://ainet-lab.github.io/post/20220126/</link>
       <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20220126/</guid>
-      <description>2022年01月26日に開催されたSmartCom Virtual Workshop@Zoomにて、ゲストレクチャーとして須藤助教が「How We Recognize Radio Environment with Deep Le</description>
+      <description>&lt;p&gt;2022年01月26日に開催されたSmartCom Virtual Workshop@Zoomにて、ゲストレクチャーとして須藤助教が「How We Recognize Radio Environment with Deep Learning」について講演を行いました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>山田(B4)が電子情報通信学会SR研究会@Zoomで発表</title>
       <link>https://ainet-lab.github.io/post/20220125/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20220125/</guid>
-      <description>2022年01月24日~25日に開催された電子情報通信学会SR研究会@Zoomで山田（B4）が「疑似アナログ通信方式を用いた路側映像ブロード</description>
+      <description>&lt;p&gt;2022年01月24日~25日に開催された電子情報通信学会SR研究会@Zoomで山田（B4）が「疑似アナログ通信方式を用いた路側映像ブロードキャスト」の発表を行いました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>電子情報通信学会誌にて記事を寄稿</title>
       <link>https://ainet-lab.github.io/post/20211201/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20211201/</guid>
-      <description>須藤助教の共著論文「電波環境の可視化」が2021年12月発行の電子情報通信学会誌にて発表されました．</description>
+      <description>&lt;p&gt;須藤助教の共著論文「電波環境の可視化」が2021年12月発行の電子情報通信学会誌にて発表されました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>須藤助教がIEICE SR研究会で依頼公演</title>
       <link>https://ainet-lab.github.io/post/20211104/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20211104/</guid>
-      <description>須藤助教がIEICE SR研究会招待講演・依頼講演セッション「6G時代の周波数共用の実用化に向けた国内政策と技術開発状況」において「電波環境イ</description>
+      <description>&lt;p&gt;須藤助教がIEICE SR研究会招待講演・依頼講演セッション「6G時代の周波数共用の実用化に向けた国内政策と技術開発状況」において「電波環境イメージングの現状と将来展望」について講演を行いました．&#xA;また，パネリストとして周波数共用の実用化のための政策や技術開発の展望について議論しました．&#xA;ご静聴いただいた皆様ありがとうございました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>卒研配属の学生へ</title>
       <link>https://ainet-lab.github.io/post/20211030/</link>
       <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20211030/</guid>
-      <description>研究室配属に関するページこちらをクリックを参照して，google formから面談の連絡をお願いします． メールでの連絡の場合対応が遅くなる可能</description>
+      <description>&lt;p&gt;研究室配属に関するページ&lt;a href=&#34;https://ainet-lab.github.io/application/&#34;&gt;こちらをクリック&lt;/a&gt;を参照して，google formから面談の連絡をお願いします．&#xA;メールでの連絡の場合対応が遅くなる可能性があります．&lt;/p&gt;</description>
     </item>
     <item>
       <title>研究室HP更新しました</title>
       <link>https://ainet-lab.github.io/post/publish/</link>
       <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/publish/</guid>
-      <description>須藤研究室のWeb PageをGithub pages + Hugoの環境に移行しました． テーマはシンプルで使いやすいblackburnを使っています． 開発</description>
+      <description>&lt;p&gt;須藤研究室のWeb PageをGithub pages + Hugoの環境に移行しました．&lt;br&gt;&#xA;テーマはシンプルで使いやすい&lt;a href=&#34;https://github.com/yoshiharuyamashita/blackburn&#34;&gt;blackburn&lt;/a&gt;を使っています．&lt;br&gt;&#xA;開発者のyoshiharu yamashitaさんに感謝の意を示します．&lt;br&gt;&#xA;&lt;a href=&#34;http://www.ainet.lab.uec.ac.jp&#34;&gt;Wordpressの旧HP&lt;/a&gt;はコンテンツを移行しつつ，年度内に閉鎖します．&lt;/p&gt;</description>
     </item>
     <item>
       <title>電波技術協会報 FORNにて記事を寄稿</title>
       <link>https://ainet-lab.github.io/post/20211018/</link>
       <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20211018/</guid>
-      <description>須藤助教が2021年7月発行の電波技術協会報 FORNにて「デジタルツインを支える新たな無線通信システム」について記事を寄稿しました。</description>
+      <description>&lt;p&gt;須藤助教が2021年7月発行の電波技術協会報 FORNにて「デジタルツインを支える新たな無線通信システム」について記事を寄稿しました。&lt;/p&gt;&#xA;&#xA;&lt;div class=&#34;pure-u-1-2&amp;#34;&#34;&gt;&#xA;  &lt;img class=&#34;pure-img&#34; src=&#34;https://ainet-lab.github.io/image/20211018.jpg&#34; &gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>寺内（M2）が電子情報通信学会SR研究会@Zoomで発表</title>
       <link>https://ainet-lab.github.io/post/202110181/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/202110181/</guid>
-      <description>2021年07月14日~16日に開催された電子情報通信学会SR研究会@Zoomで寺内（M2）が「無線給電センサネットワークにおける統計的チャ</description>
+      <description>&lt;p&gt;2021年07月14日~16日に開催された電子情報通信学会SR研究会@Zoomで寺内（M2）が「無線給電センサネットワークにおける統計的チャネル品質に基づいたタイムスロット割り当て手法に関する一考察」の発表を行いました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>JST ASPIRE</title>
       <link>https://ainet-lab.github.io/post/aspire/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/aspire/</guid>
-      <description>About This Project Resilient Cyberspace Generative Framework with Communication, Sensing and Learning Integration (ReCygne) is a JST ASPIRE project consisting of Japan resaerch team (UEC and TIT) and UOulue and UWindsor. ReCygne aimst to develop a cutting-edge cyber-physical fralework for resilient society development with aritifical intelligence. For this purpose, we have research collabtation with three technical experts, i.e., semantic communications, data-drive sensing, and distributed learning.&#xA;Team PI: Dr. Katsuya Suto, The University of Electro-Communications Co-PI: Dr.</description>
+      <description>&lt;h2 id=&#34;about-this-project&#34;&gt;About This Project&lt;/h2&gt;&#xA;&lt;p&gt;Resilient Cyberspace Generative Framework with Communication, Sensing and Learning Integration (ReCygne) is a JST ASPIRE project consisting of Japan resaerch team (UEC and TIT) and UOulue and UWindsor. ReCygne aimst to develop a cutting-edge cyber-physical fralework for resilient society development with aritifical intelligence. For this purpose, we have research collabtation with three technical experts, i.e., semantic communications, data-drive sensing, and distributed learning.&lt;/p&gt;&#xA;&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;PI: Dr. Katsuya Suto, The University of Electro-Communications&lt;/li&gt;&#xA;&lt;li&gt;Co-PI: Dr. Takayuki Nishio, Tokyo Institute of Technology&lt;/li&gt;&#xA;&lt;li&gt;Co-PI: Dr. Koya Sato, The University of Electro-Communications&lt;/li&gt;&#xA;&lt;li&gt;PI in Candada: Dr. Ning Zhang, University of Windsor&lt;/li&gt;&#xA;&lt;li&gt;PI in Finland: Dr. Mehdi Bennis, University of Oulu&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;collaboration&#34;&gt;Collaboration&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tutorial: AI-native Communicaitons and Netwroking in IEICE society conference 2024 (Presented by Dr. Ning and Dr. Mehdi)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;research-achivement&#34;&gt;Research Achivement&lt;/h2&gt;&#xA;&lt;p&gt;to be updated&lt;/p&gt;</description>
     </item>
     <item>
       <title>RadioTwin：無線資源を正確に認識・制御</title>
       <link>https://ainet-lab.github.io/post/rt/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/rt/</guid>
-      <description>概要 現実世界をデジタル空間上に構築し、モニタリングやシミュレーションを行うことで、あらゆる社会サービスをより良くする意思決定を行うデジタルツ</description>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;&#xA;&lt;p&gt;現実世界をデジタル空間上に構築し、モニタリングやシミュレーションを行うことで、あらゆる社会サービスをより良くする意思決定を行うデジタルツインの実現が期待されています。一方で、現実世界とデジタル空間を繋ぐ無線通信はより重要になるため、現実世界の無線資源をデジタル化（可視化）する技術の確立が望まれます。そこで我々の研究グループでは、現実世界の無線資源をモニタリング・シミュレーションし、無線資源をより有効に使うための意思決定を行う技術（RadioTwin）の創出を目指しています。現在は、以下の研究に取り組んでいます。&lt;/p&gt;</description>
     </item>
     <item>
       <title>SemanticComm：コミュニケーションしながら進化する通信方式</title>
       <link>https://ainet-lab.github.io/post/sc/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/sc/</guid>
-      <description>概要 これまでの通信技術は送りたい情報を全て確実に伝送することを目的として設計されてきました。一方、人間のコミュニケーションでは、少ない情報か</description>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;&#xA;&lt;p&gt;これまでの通信技術は送りたい情報を全て確実に伝送することを目的として設計されてきました。一方、人間のコミュニケーションでは、少ない情報から相手の伝えたいことを推察しながら意思疎通をします。友達や家族など仲が良くなるほど情報少なくできるようにコミュニケーションを学習します。この人間のコミュニケーションのように、特定の相手と通信を繰り返しながら学習することで「伝えたい意味」だけを圧縮して通信する方式の研究を進めています。&lt;/p&gt;</description>
     </item>
     <item>
       <title>情報伝送基礎：Fundamentals of Information Transmission</title>
       <link>https://ainet-lab.github.io/post/fit/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/fit/</guid>
-      <description>前期木曜3限開講。 Google Classromで情報を公開します。クラスコードは講義中にお伝えいたします。 質問がある人は須藤までメールをください。</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;前期木曜3限開講。&lt;/li&gt;&#xA;&lt;li&gt;Google Classromで情報を公開します。クラスコードは講義中にお伝えいたします。&lt;/li&gt;&#xA;&lt;li&gt;質問がある人は須藤までメールをください。&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

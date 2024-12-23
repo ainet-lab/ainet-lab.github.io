@@ -4,7 +4,7 @@
     <title>AINet Lab @ UEC</title>
     <link>https://ainet-lab.github.io/</link>
     <description>Recent content on AINet Lab @ UEC</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>ja-jp</language>
     <copyright>&amp;copy; 2021. All rights reserved.</copyright>
     <lastBuildDate>Sat, 14 Sep 2024 00:00:00 +0000</lastBuildDate>
@@ -14,280 +14,280 @@
       <link>https://ainet-lab.github.io/post/20240914/</link>
       <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20240914/</guid>
-      <description>2024年9月14日に開催された第36回IEEE Engineer Spotlightにて須藤准教授が「自動運転を支える意味を伝える映像伝送技術」について招待</description>
+      <description>&lt;p&gt;2024年9月14日に開催された第36回IEEE Engineer Spotlightにて須藤准教授が「自動運転を支える意味を伝える映像伝送技術」について招待講演を行いました。&#xA;企画いただいたIEEE ITS Society Tokyo Chapterの皆様、ご参加頂いた皆様ありがとうございました。&#xA;なお、本発表の一部はJST ASPIREの助成を受けたものです。&lt;/p&gt;</description>
     </item>
     <item>
       <title>高木（M1）がPIMRC2024@バレンシアで発表</title>
       <link>https://ainet-lab.github.io/post/20240901/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20240901/</guid>
-      <description>2024年9月2日-5日にスペインバレンシアで開催されたPIMRC2024で高木（M1）が「Radio Propagation Graph Representation Learning: An Implementation in Multi-Hop Path Representa</description>
+      <description>&lt;p&gt;2024年9月2日-5日にスペインバレンシアで開催されたPIMRC2024で高木（M1）が「Radio Propagation Graph Representation Learning: An Implementation in Multi-Hop Path Representation」について口頭発表しました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>須藤准教授が電波COEシンポジウムにてパネル講演</title>
       <link>https://ainet-lab.github.io/post/20240607/</link>
       <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20240607/</guid>
-      <description>2024年6月7日に開催された第５回 電波利活用強靭化に向けた電波COEシンポジウムで須藤准教授が「深化・学際化する無線分野における人材育成の</description>
+      <description>&lt;p&gt;2024年6月7日に開催された第５回 電波利活用強靭化に向けた電波COEシンポジウムで須藤准教授が「深化・学際化する無線分野における人材育成のあり方」のパネリストとして参加し、講演を行いました。&#xA;企画いただいた株式会社国際電気通信基礎技術研究所の皆様ありがとうございました。&lt;/p&gt;</description>
     </item>
     <item>
       <title>坂内（M2）がICNC2024@ハワイで発表</title>
       <link>https://ainet-lab.github.io/post/20240220/</link>
       <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20240220/</guid>
-      <description>2024年2月19日-22日に米国ハワイで開催されたICNC2024で坂内（M2）が「Stereo-Aided Blockage Prediction for mmWave V2X Communicat</description>
+      <description>&lt;p&gt;2024年2月19日-22日に米国ハワイで開催されたICNC2024で坂内（M2）が「Stereo-Aided Blockage Prediction for mmWave V2X Communications」について口頭発表しました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>山田（M2）、三浦（M1）がIEEE CCNC2024@ラスベガスで発表</title>
       <link>https://ainet-lab.github.io/post/20240107/</link>
       <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20240107/</guid>
-      <description>2024年1月6日-9日に米国ラスベガスで開催されたIEEE CCNC2024で山田（M2）が「Deep Joint Source-Channel Coding with Optimal Compression Rate for mmWave Mobile Image Transmis</description>
+      <description>&lt;p&gt;2024年1月6日-9日に米国ラスベガスで開催されたIEEE CCNC2024で山田（M2）が「Deep Joint Source-Channel Coding with Optimal Compression Rate for mmWave Mobile Image Transmission」、三浦（M1）が「Performance Analysis for IRS-Assisted SWIPT with Geometry-Based Phase Shift」についてそれぞれポスター発表しました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>坂内（M2）、付（M1）、須藤准教授が11月SR研究会@仙台市で発表</title>
       <link>https://ainet-lab.github.io/post/20231110/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20231110/</guid>
-      <description>2023年11月9日-10日に宮城県仙台市で開催されたスマート無線研究会で坂内（M2）が「ミリ波V2X通信におけるステレオビジョンによる高速</description>
+      <description>&lt;p&gt;2023年11月9日-10日に宮城県仙台市で開催されたスマート無線研究会で坂内（M2）が「ミリ波V2X通信におけるステレオビジョンによる高速な遮蔽予測」、付（M1）が「Deep Joint Source Channel Codingにおける視覚的秘匿性を向上するためのモデル共有・学習方式」、須藤准教授が「情報源・通信路深層結合符号におけるモデル伝送に関する一考察」についてそれぞれ口頭発表しました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>坂内（M2）、三浦（M1）、高木（B4）がMIKA2023@沖縄で発表</title>
       <link>https://ainet-lab.github.io/post/20231010/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20231010/</guid>
-      <description>2023年10月10日-12日に沖縄那覇市で開催されたMIKA2023で坂内（M2）が「ミリ波V2X通信におけるステレオカメラを用いた遮蔽予</description>
+      <description>&lt;p&gt;2023年10月10日-12日に沖縄那覇市で開催されたMIKA2023で坂内（M2）が「ミリ波V2X通信におけるステレオカメラを用いた遮蔽予測」、三浦（M1）が「空間相関を有するライスフェージングチャネルにおけるIRS-Assisted SWIPTの性能解析」、高木（B4）が「電波伝搬グラフ表現学習におけるフレネルゾーンを用いたパス構築」についてそれぞれポスター発表しました&lt;/p&gt;</description>
     </item>
     <item>
       <title>須藤准教授が10th UEC Seminar in ASEAN，5th ASEAN – UEC Workshop on Informatics and Engineering@バンコクで発表</title>
       <link>https://ainet-lab.github.io/post/20230910/</link>
       <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20230910/</guid>
-      <description>2023年9月9日，10日にバンコクで開催された10th UEC Seminar in ASEAN，5th ASEAN – UEC Workshop on Informatics and Engineeringでそれぞれ「Intern</description>
+      <description>&lt;p&gt;2023年9月9日，10日にバンコクで開催された10th UEC Seminar in ASEAN，5th ASEAN – UEC Workshop on Informatics and Engineeringでそれぞれ「International Collaboration Activities for AI-based Wireless Networking Development」，「Deep Learning and Its Applications to Radio Map Construction」について基調講演を行いました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>須藤准教授が電子情報通信学会SR研@大阪で発表</title>
       <link>https://ainet-lab.github.io/post/20230712/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20230712/</guid>
-      <description>2023年7月12日~14日に大阪府大阪市で開催されたスマート無線研究会で須藤准教授が「電波伝搬グラフ表現学習 」について口頭発表を行いました</description>
+      <description>&lt;p&gt;2023年7月12日~14日に大阪府大阪市で開催されたスマート無線研究会で須藤准教授が「電波伝搬グラフ表現学習 」について口頭発表を行いました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>三浦（M1）がIEEE VTC2023Spring@フィレンツェで発表し，研究奨励賞を受賞</title>
       <link>https://ainet-lab.github.io/post/20230622/</link>
       <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20230622/</guid>
-      <description>2023年6月20日~23日にイタリアフィレンツェで開催されたVTC2023Springで修士1年三浦が「Performance Analysis for IRS-Assisted SWIPT with Optimal</description>
+      <description>&lt;p&gt;2023年6月20日~23日にイタリアフィレンツェで開催されたVTC2023Springで修士1年三浦が「Performance Analysis for IRS-Assisted SWIPT with Optimal Phase Shift under Spatially Correlated Fading Channels」について発表を行い，IEEE VTS Tokyo/Japan Chapter Young Researcher’s Encouragement Awardを受賞しました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>藤井（M2）、山田（M2）が電子情報通信学会SR研@室蘭で発表</title>
       <link>https://ainet-lab.github.io/post/20230512/</link>
       <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20230512/</guid>
-      <description>2023年5月11日~12日に北海道室蘭市で開催されたスマート無線研究会で藤井（M2）が「ヌル化を用いた情報信号のパス分離によるセキュアなS</description>
+      <description>&lt;p&gt;2023年5月11日~12日に北海道室蘭市で開催されたスマート無線研究会で藤井（M2）が「ヌル化を用いた情報信号のパス分離によるセキュアなSWIPT」、山田（M2）が「圧縮率可変なDeep Joint Source Channel Coding」について口頭発表を行いました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>須藤准教授が2022年度スマート無線研究会研究奨励賞を受賞</title>
       <link>https://ainet-lab.github.io/post/20230314/</link>
       <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20230314/</guid>
-      <description>須藤准教授が、電子情報通信学会スマート無線（SR）研究会より、2022年度スマート無線研究会研究奨励賞を受賞しました。 本賞は、2022年度の</description>
+      <description>&lt;p&gt;須藤准教授が、電子情報通信学会スマート無線（SR）研究会より、2022年度スマート無線研究会研究奨励賞を受賞しました。&#xA;本賞は、2022年度のスマート無線研究会における一般講演において、最も優秀な研究発表を行った若手発表者3名に授与されるものです。&lt;/p&gt;</description>
     </item>
     <item>
       <title>須藤助教が准教授に昇任</title>
       <link>https://ainet-lab.github.io/post/20230307/</link>
       <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20230307/</guid>
-      <description>須藤助教が三月七日付で准教授に昇任しました。</description>
+      <description>&lt;p&gt;須藤助教が三月七日付で准教授に昇任しました。&lt;/p&gt;</description>
     </item>
     <item>
       <title>美濃（M1）が電子情報通信学会NS研@沖縄で発表</title>
       <link>https://ainet-lab.github.io/post/20230302/</link>
       <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20230302/</guid>
-      <description>2022年3月2日~3日に沖縄県宜野湾市で開催されたネットワークシステム研究会で美濃（M1）が「超解像を活用したWebRTCにおける軽量深層</description>
+      <description>&lt;p&gt;2022年3月2日~3日に沖縄県宜野湾市で開催されたネットワークシステム研究会で美濃（M1）が「超解像を活用したWebRTCにおける軽量深層学習モデルに関する検討」について口頭発表を行いました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>山田（M1）がIEEE CCNC2023@Las Vegasで発表</title>
       <link>https://ainet-lab.github.io/post/20230109/</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20230109/</guid>
-      <description>2023年1月8日~11日に米国ネバダ州ラスベガスで開催されたCCNC2023で修士1年山田が「Exploring Pseudo-Analog Video Transmission for Edge-AI Vision Applica</description>
+      <description>&lt;p&gt;2023年1月8日~11日に米国ネバダ州ラスベガスで開催されたCCNC2023で修士1年山田が「Exploring Pseudo-Analog Video Transmission for Edge-AI Vision Applications」についてポスター発表を行いました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>須藤助教が電子情報通信学会SR研@福岡で発表</title>
       <link>https://ainet-lab.github.io/post/20221108/</link>
       <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20221108/</guid>
-      <description>2022年11月7日~8日に福岡県博多市で開催されたスマート無線研究会で須藤助教が「ドローンを用いた電波観測による3次元空間補間性能の実験的</description>
+      <description>&lt;p&gt;2022年11月7日~8日に福岡県博多市で開催されたスマート無線研究会で須藤助教が「ドローンを用いた電波観測による3次元空間補間性能の実験的評価 」について口頭発表を行いました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>山田(M1)が電子情報通信学会RISING研究会@京都で発表</title>
       <link>https://ainet-lab.github.io/post/20221031/</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20221031/</guid>
-      <description>2022年10月31日~11月2日に京都府京都市で開催されたRISING研究会で山田（M1）が「インフラ協調型自動運転における疑似アナログ通</description>
+      <description>&lt;p&gt;2022年10月31日~11月2日に京都府京都市で開催されたRISING研究会で山田（M1）が「インフラ協調型自動運転における疑似アナログ通信を介した物体検知」についてポスター発表を行いました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>藤井(M1)、山田(M1)が電子情報通信学会SR研究会@金沢で発表</title>
       <link>https://ainet-lab.github.io/post/20220723/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20220723/</guid>
-      <description>2022年07月13日~15日に石川県金沢で開催されたSR研究会で藤井(M1)が「静的遮蔽空間における通信品質改善のためのIRS配置手法」、</description>
+      <description>&lt;p&gt;2022年07月13日~15日に石川県金沢で開催されたSR研究会で藤井(M1)が「静的遮蔽空間における通信品質改善のためのIRS配置手法」、山田（M1）が「疑似アナログ通信方式を用いた物体検出AIの精度評価」の発表を行いました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>Suto&#39;s Biography</title>
       <link>https://ainet-lab.github.io/suto/</link>
       <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/suto/</guid>
-      <description>Katsuya Suto received the B.Sc. degree in computer engineering from Iwate University, Morioka, Japan, in 2011, and the M.Sc. and Ph.D. degrees in information science from Tohoku University, Sendai, Japan, in 2013 and 2016, respectively. He has worked as a Postdoctoral Fellow for Research Abroad, Japan Society for the Promotion of Science, in the Broadband Communications Research Lab., University of Waterloo, ON, Canada, from 2016 to 2018. He is an Associate Professor with the Graduate School of Informatics and Engineering, the University of Electro-Communications, Tokyo, Japan.</description>
+      <description>&lt;div class=&#34;pure-u-1-4&#34;&gt;&#xA;  &lt;img class=&#34;pure-img&#34; src=&#34;https://ainet-lab.github.io/image/suto.jpg&#34; &gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Katsuya Suto received the B.Sc. degree in computer engineering from Iwate University, Morioka, Japan, in 2011, and the M.Sc. and Ph.D. degrees in information science from Tohoku University, Sendai, Japan, in 2013 and 2016, respectively. He has worked as a Postdoctoral Fellow for Research Abroad, Japan Society for the Promotion of Science, in the Broadband Communications Research Lab., University of Waterloo, ON, Canada, from 2016 to 2018. He is an Associate Professor with the Graduate School of Informatics and Engineering, the University of Electro-Communications, Tokyo, Japan. His research interests include semantic communications, radio propagation, deep learning, and graph representation. He received the Best Paper Award at the IEEE VTC2013-spring, the IEEE/CIC ICCC2015, the IEEE ICC2016, and the IEEE Transactions on Computers in 2018. He is currently the Technical Affairs Committee (TAC) Vice-Chair, IEEE Asia/Pacific Region Board. He is a member of IEEE and IEICE.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Members</title>
       <link>https://ainet-lab.github.io/member/</link>
       <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/member/</guid>
-      <description>Staff 須藤克弥（Katsuya Suto） 准教授，須藤研究室PI e-mail: k.suto [at] uec.ac.jp tel: 042-443-5192 中島梨絵（Rie Nakashima） コーディネーター e-mail: sa003790 [at] edu.cc.uec.ac.jp Member 三浦優明</description>
+      <description>&lt;h2 id=&#34;staff&#34;&gt;Staff&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&#xA;&lt;div class=&#34;pure-u-1-2&#34;&gt;&#xA;  &lt;img class=&#34;pure-img&#34; src=&#34;https://ainet-lab.github.io/image/suto_p.jpg&#34; &gt;&#xA;&lt;/div&gt;&#xA;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;須藤克弥（Katsuya Suto）&lt;br&gt; &lt;small&gt;准教授，須藤研究室PI &lt;br&gt; e-mail: k.suto [at] uec.ac.jp&lt;br&gt; tel: 042-443-5192&lt;/small&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;br&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;br&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&#xA;&lt;div class=&#34;pure-u-1-2&#34;&gt;&#xA;  &lt;img class=&#34;pure-img&#34; src=&#34;https://ainet-lab.github.io/image/sakuma.jpg&#34; &gt;&#xA;&lt;/div&gt;&#xA;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;中島梨絵（Rie Nakashima）&lt;br&gt; &lt;small&gt;コーディネーター &lt;br&gt; e-mail: sa003790 [at] edu.cc.uec.ac.jp&lt;/small&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;br&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;br&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;member&#34;&gt;Member&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&#xA;&lt;div class=&#34;pure-u-1-2&#34;&gt;&#xA;  &lt;img class=&#34;pure-img&#34; src=&#34;https://ainet-lab.github.io/image/miura.jpg&#34; &gt;&#xA;&lt;/div&gt;&#xA;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;三浦優明（Masaaki Miura）&lt;br&gt; &lt;small&gt;修士2年&lt;br&gt;研究：知的反射板&lt;/small&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;br&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;br&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&#xA;&lt;div class=&#34;pure-u-1-2&#34;&gt;&#xA;  &lt;img class=&#34;pure-img&#34; src=&#34;https://ainet-lab.github.io/image/fu.jpg&#34; &gt;&#xA;&lt;/div&gt;&#xA;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;付昱洋（Yuyang Fu）&lt;br&gt; &lt;small&gt;修士2年&lt;br&gt;研究：深層ソース・チャネル符号化&lt;/small&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;br&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;br&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&#xA;&lt;div class=&#34;pure-u-1-2&#34;&gt;&#xA;  &lt;img class=&#34;pure-img&#34; src=&#34;https://ainet-lab.github.io/image/takagi.jpg&#34; &gt;&#xA;&lt;/div&gt;&#xA;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;高木志門（Shimon Takagi）&lt;br&gt; &lt;small&gt;修士1年&lt;br&gt;研究：電波伝搬グラフ表現学習&lt;/small&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;br&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;br&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&#xA;&lt;div class=&#34;pure-u-1-2&#34;&gt;&#xA;  &lt;img class=&#34;pure-img&#34; src=&#34;https://ainet-lab.github.io/image/matsumura.jpg&#34; &gt;&#xA;&lt;/div&gt;&#xA;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;松村一冴（Issa Matsumura）&lt;br&gt; &lt;small&gt;修士1年&lt;br&gt;研究：分散型学習&lt;/small&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;br&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;br&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&#xA;&lt;div class=&#34;pure-u-1-2&#34;&gt;&#xA;  &lt;img class=&#34;pure-img&#34; src=&#34;https://ainet-lab.github.io/image/ito.jpg&#34; &gt;&#xA;&lt;/div&gt;&#xA;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;伊藤大貴（Daiki Ito）&lt;br&gt; &lt;small&gt;学部4年&lt;br&gt;研究：室内環境における電波伝搬グラフ表現学習&lt;/small&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;br&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;br&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&#xA;&lt;div class=&#34;pure-u-1-2&#34;&gt;&#xA;  &lt;img class=&#34;pure-img&#34; src=&#34;https://ainet-lab.github.io/image/tajino.jpg&#34; &gt;&#xA;&lt;/div&gt;&#xA;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;太治野輝（Hikaru Tajino）&lt;br&gt; &lt;small&gt;学部4年&lt;br&gt;研究：VR向け映像伝送&lt;/small&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;br&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;br&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&#xA;&lt;div class=&#34;pure-u-1-2&#34;&gt;&#xA;  &lt;img class=&#34;pure-img&#34; src=&#34;https://ainet-lab.github.io/image/munk.jpg&#34; &gt;&#xA;&lt;/div&gt;&#xA;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Khuderchuluun Munkhtulga &lt;br&gt; &lt;small&gt;学部4年&lt;br&gt;研究：多視点映像伝送&lt;/small&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;br&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;br&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&#xA;&lt;div class=&#34;pure-u-1-2&#34;&gt;&#xA;  &lt;img class=&#34;pure-img&#34; src=&#34;https://ainet-lab.github.io/image/yu.jpg&#34; &gt;&#xA;&lt;/div&gt;&#xA;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;喩佳嬈 (Yu Jiarao)&lt;br&gt; &lt;small&gt;研究生&lt;br&gt;研究：深層ソース・チャネル符号化における敵対的攻撃&lt;/small&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;br&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;br&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;alumni&#34;&gt;Alumni&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;修士&#xA;&lt;ul&gt;&#xA;&lt;li&gt;坂内信允（FY2023）&lt;/li&gt;&#xA;&lt;li&gt;藤井和貴（FY2023）&lt;/li&gt;&#xA;&lt;li&gt;美濃夏貴（FY2023）&lt;/li&gt;&#xA;&lt;li&gt;山田準一郎（FY2023）&lt;/li&gt;&#xA;&lt;li&gt;加藤耕平（FY2021）&lt;/li&gt;&#xA;&lt;li&gt;寺内建（FY2021）&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;学士&#xA;&lt;ul&gt;&#xA;&lt;li&gt;宮入健（FY2022）&lt;/li&gt;&#xA;&lt;li&gt;橋本理公（FY2019）&lt;/li&gt;&#xA;&lt;li&gt;池田駿斗（FY2018）&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;研究生&#xA;&lt;ul&gt;&#xA;&lt;li&gt;李春亭（FY2024）&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>坂内(M1)が電子情報通信学会SR研究会@Zoomで発表</title>
       <link>https://ainet-lab.github.io/post/20220304/</link>
       <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20220304/</guid>
-      <description>2022年03月2日~4日に開催された電子情報通信学会SR研究会@Zoomで坂内（M1）が「低SNR信号を含む電波環境における距離減衰モデル</description>
+      <description>&lt;p&gt;2022年03月2日~4日に開催された電子情報通信学会SR研究会@Zoomで坂内（M1）が「低SNR信号を含む電波環境における距離減衰モデルに関する研究」の発表を行いました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>寺内(M2)が2021年度スマート無線研究会研究奨励賞を受賞</title>
       <link>https://ainet-lab.github.io/post/20220303/</link>
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20220303/</guid>
-      <description>修士2年の寺内健が、電子情報通信学会スマート無線（SR）研究会より、2021年度スマート無線研究会研究奨励賞を受賞しました。 本賞は、2021</description>
+      <description>&lt;p&gt;修士2年の寺内健が、電子情報通信学会スマート無線（SR）研究会より、2021年度スマート無線研究会研究奨励賞を受賞しました。&#xA;本賞は、2021年度のスマート無線研究会における一般講演において、最も優秀な研究発表を行った若手発表者3名に授与されるものです。&lt;/p&gt;</description>
     </item>
     <item>
       <title>須藤助教が国際会議ICAIIC2022でチュートリアル講演</title>
       <link>https://ainet-lab.github.io/post/20220221/</link>
       <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20220221/</guid>
-      <description>2022年02月21日-24日に開催されたInternational Conference on Artificial Intelligence in Information and Communication 2022で須藤助教がDeep Learning and Its Applications to Radio Map Constru</description>
+      <description>&lt;p&gt;2022年02月21日-24日に開催されたInternational Conference on Artificial Intelligence in Information and Communication 2022で須藤助教がDeep Learning and Its Applications to Radio Map Constructionについてチュートリアル講演を行いました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>須藤助教がPIF・PN研究会共催「チュートリアル講演会」で講演</title>
       <link>https://ainet-lab.github.io/post/20220218/</link>
       <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20220218/</guid>
-      <description>2022年02月18日に開催されたPIF・PN研究会チュートリアル講演会@Zoomで須藤助教が「電波伝搬推定における深層学習の基礎と応用」の</description>
+      <description>&lt;p&gt;2022年02月18日に開催されたPIF・PN研究会チュートリアル講演会@Zoomで須藤助教が「電波伝搬推定における深層学習の基礎と応用」の発表を行いました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>須藤助教がSmartCom Virtual Workshop@Zoomで講演</title>
       <link>https://ainet-lab.github.io/post/20220126/</link>
       <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20220126/</guid>
-      <description>2022年01月26日に開催されたSmartCom Virtual Workshop@Zoomにて、ゲストレクチャーとして須藤助教が「How We Recognize Radio Environment with Deep Le</description>
+      <description>&lt;p&gt;2022年01月26日に開催されたSmartCom Virtual Workshop@Zoomにて、ゲストレクチャーとして須藤助教が「How We Recognize Radio Environment with Deep Learning」について講演を行いました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>山田(B4)が電子情報通信学会SR研究会@Zoomで発表</title>
       <link>https://ainet-lab.github.io/post/20220125/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20220125/</guid>
-      <description>2022年01月24日~25日に開催された電子情報通信学会SR研究会@Zoomで山田（B4）が「疑似アナログ通信方式を用いた路側映像ブロード</description>
+      <description>&lt;p&gt;2022年01月24日~25日に開催された電子情報通信学会SR研究会@Zoomで山田（B4）が「疑似アナログ通信方式を用いた路側映像ブロードキャスト」の発表を行いました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>電子情報通信学会誌にて記事を寄稿</title>
       <link>https://ainet-lab.github.io/post/20211201/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20211201/</guid>
-      <description>須藤助教の共著論文「電波環境の可視化」が2021年12月発行の電子情報通信学会誌にて発表されました．</description>
+      <description>&lt;p&gt;須藤助教の共著論文「電波環境の可視化」が2021年12月発行の電子情報通信学会誌にて発表されました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>須藤助教がIEICE SR研究会で依頼公演</title>
       <link>https://ainet-lab.github.io/post/20211104/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20211104/</guid>
-      <description>須藤助教がIEICE SR研究会招待講演・依頼講演セッション「6G時代の周波数共用の実用化に向けた国内政策と技術開発状況」において「電波環境イ</description>
+      <description>&lt;p&gt;須藤助教がIEICE SR研究会招待講演・依頼講演セッション「6G時代の周波数共用の実用化に向けた国内政策と技術開発状況」において「電波環境イメージングの現状と将来展望」について講演を行いました．&#xA;また，パネリストとして周波数共用の実用化のための政策や技術開発の展望について議論しました．&#xA;ご静聴いただいた皆様ありがとうございました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>卒研配属の学生へ</title>
       <link>https://ainet-lab.github.io/post/20211030/</link>
       <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20211030/</guid>
-      <description>研究室配属に関するページこちらをクリックを参照して，google formから面談の連絡をお願いします． メールでの連絡の場合対応が遅くなる可能</description>
+      <description>&lt;p&gt;研究室配属に関するページ&lt;a href=&#34;https://ainet-lab.github.io/application/&#34;&gt;こちらをクリック&lt;/a&gt;を参照して，google formから面談の連絡をお願いします．&#xA;メールでの連絡の場合対応が遅くなる可能性があります．&lt;/p&gt;</description>
     </item>
     <item>
       <title>Publications</title>
       <link>https://ainet-lab.github.io/publication/</link>
       <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/publication/</guid>
-      <description>Link to Journal, Conference, Invited Paper, Contributed Article, Domestic Conference, Patent 学術論文誌 - Journal Yuyang Fu and Katsuya Suto, &amp;ldquo;Secure Deep Joint Source-Channel Coding with Chaotic Map Against Deep Known-Plaintext Attack,&amp;rdquo; under review. Masaaki Miura, Koya Sato, Ning Zhang, and Katsuya Suto, &amp;ldquo;Fast Reflective Beamforming with Situational Awareness in IRS Assisted Communication Systems,&amp;rdquo; under review. Katsuya Suto, Shinsuke Bannai, Hikaru Tsuchida, Yuji Miyake, and Masao Oga,</description>
+      <description>&lt;p&gt;&lt;br&gt;&lt;/br&gt;&#xA;Link to &lt;a href=&#34;#journal&#34;&gt;Journal&lt;/a&gt;, &lt;a href=&#34;#conference&#34;&gt;Conference&lt;/a&gt;, &lt;a href=&#34;#invite&#34;&gt;Invited Paper&lt;/a&gt;, &lt;a href=&#34;#contribution&#34;&gt;Contributed Article&lt;/a&gt;, &lt;a href=&#34;#domestic&#34;&gt;Domestic Conference&lt;/a&gt;, &lt;a href=&#34;#patent&#34;&gt;Patent&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;jornal&#34;&gt;学術論文誌 - Journal&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Yuyang Fu and Katsuya Suto, &amp;ldquo;Secure Deep Joint Source-Channel Coding with Chaotic Map Against Deep Known-Plaintext Attack,&amp;rdquo; under review.&lt;/li&gt;&#xA;&lt;li&gt;Masaaki Miura, Koya Sato, Ning Zhang, and Katsuya Suto, &amp;ldquo;Fast Reflective Beamforming with Situational Awareness in IRS Assisted Communication Systems,&amp;rdquo; under review.&lt;/li&gt;&#xA;&lt;li&gt;Katsuya Suto, Shinsuke Bannai, Hikaru Tsuchida, Yuji Miyake, and Masao Oga, &amp;ldquo;Semantic Blockage Prediction and Handover in Multimodal Sensing Aided V2I Communications,&amp;rdquo; under review.&lt;/li&gt;&#xA;&lt;li&gt;Ifrah Andleeb, Jiayuan Wang, Katsuya Suto, and Ning Zhang, &amp;ldquo;A Comprehensive Survey of Adversarial Attacks and Defenses in Traffic Sign Recognition Systems,&amp;rdquo; under review.&lt;/li&gt;&#xA;&lt;li&gt;Koya Sato and Katsuya Suto, &amp;ldquo;Bayesian Optimization Framework for Channel Simulation-Based Base Station Placement and Transmission Power Design,&amp;rdquo; IEEE Networking Letters, 2024 (in press. DOI: 10.1109/LNET.2024.3469175).&lt;/li&gt;&#xA;&lt;li&gt;Masashi Wakaiki, Katsuya Suto, and Izumi Masubuchi, “Cell Zooming with Masked Data for Off-Grid Small Cell Networks: Distributed Optimization Approach,” IEEE Transactions on Control Systems Technology, vol. 30, no. 4, pp. 1696-1710, July 2022.&lt;/li&gt;&#xA;&lt;li&gt;Katsuya Suto, Shinsuke Bannai, Koya Sato, Kei Inage, Koichi Adachi, and Takeo Fujii, “Image-Driven Spatial Interpolation with Deep Learning for Radio Map Construction,” IEEE Wireless Communications Letters, vol. 10, no. 6, pp. 1222-1226, June 2021.&lt;/li&gt;&#xA;&lt;li&gt;Koya Sato, Katsuya Suto, Kei Inage, Koichi Adachi, and Takeo Fujii, “Space-Frequency-Interpolated Radio Map,” IEEE Transactions on Vehicular Technology, vol. 70, no. 1, pp. 714-725, Jan. 2021.&lt;/li&gt;&#xA;&lt;li&gt;Tiago Koketsu Rodrigues, Katsuya Suto, Hiroki Nishiyama, Jiajia Liu, and Nei Kato, “Machine Learning meets Computation and Communication Control in Evolving Edge and Cloud,” IEEE Communications Surveys and Tutorials, vol. 22, no. 1, pp. 38-67, firstquarter 2020.&lt;/li&gt;&#xA;&lt;li&gt;Tiago Koketsu Rodrigues, Katsuya Suto, and Nei Kato, “Edge Cloud Server Deployment with Transmission Power Control through Machine Learning for 6G Internet of Things,” IEEE Transactions on Emerging Topics in Computing, vol. 9, no. 4, pp. 2099-2108, Dec. 2019.&lt;/li&gt;&#xA;&lt;li&gt;Masashi Wakaiki, Katsuya Suto, Kenta Koiwa, Kang-Zhi Liu, and Tadanao Zanma, “A Control-Theoretic Approach for Cell Zooming of Energy Harvesting Small Cell Networks,” IEEE Transactions on Green Communications and Networking, vol. 3, no. 2, pp. 329-342, June 2019.&lt;/li&gt;&#xA;&lt;li&gt;Katsuya Suto, Hiroki Nishiyama, Nei Kato, and Toshiaki Kuri, “Model Predictive Joint Transmit Power Control for Improving System Availability in Energy-Harvesting Wireless Mesh Networks,” IEEE Communications Letters, vol. 22, no. 10, pp. 2112-2115, Oct. 2018.&lt;/li&gt;&#xA;&lt;li&gt;Tiago Gama Rodrigues, Katsuya Suto, Hiroki Nishiyama, and Nei Kato, “Cloudlets Activation Scheme for Scalable Mobile Edge Computing with Transmission Power Control and Virtual Machine Migration,” IEEE Transactions on Computers, vol. 67, no. 9, pp. 1287-1300, Sep. 2018.&lt;/li&gt;&#xA;&lt;li&gt;Shan Zhang, Peter He, Katsuya Suto, Peng Yang, Lian Zhao, and Sherman Shen, “Cooperative Edge Caching in User-Centric Clustered Mobile Networks,” IEEE Transactions on Mobile Computing, vol. 17, no. 8, pp. 1791-1805, Aug. 2018.&lt;/li&gt;&#xA;&lt;li&gt;Kai Fan, Xin Wang, Katsuya Suto, Hui Li, and Yintang Yang, “Secure and Efficient Privacy-Preserving Ciphertext Retrieval in Connected Vehicular Cloud Computing,” IEEE Network, vol. 32, no. 3, pp. 52-57, June 2018.&lt;/li&gt;&#xA;&lt;li&gt;Katsuya Suto, Hiroki Nishiyama, and Nei Kato, “Post-Disaster User Location Maneuvering Method for Improving the QoE Guaranteed Service Time Energy Harvesting Small Cell Networks,” IEEE Transactions on Vehicular Technology, vol. 66, no. 10, pp. 9410-9420, Oct. 2017.&lt;/li&gt;&#xA;&lt;li&gt;Hiroki Nishiyama, Katsuya Suto, and Hideki Kuribayashi, “Cyber Physical Systems for Intelligent Disaster Response Networks: Conceptual Proposal and Field Experiment,” IEEE Network, vol. 31, no. 4, pp. 120-128, July 2017.&lt;/li&gt;&#xA;&lt;li&gt;Tiago Gama Rodrigues, Katsuya Suto, Hiroki Nishiyama, and Nei Kato, “Hybrid Method for Minimizing Service Delay in Edge Cloud Computing through VM Migration and Transmission Power Control,” IEEE Transactions on Computers, vol. 66, no. 5, pp. 810-819, May 2017.&lt;/li&gt;&#xA;&lt;li&gt;Katsuya Suto, Keisuke Miyanabe, Hiroki Nishiyama, Nei Kato, Hirotaka Ujikawa, and Ken-Ichi Suzuki, “QoE-Guaranteed and Power-Efficient Network Operation for Cloud Radio Access Network with Power over Fiber,” IEEE Transactions on Computational Social Systems, vol. 2 no. 4, pp. 127-136, Feb. 2016.&lt;/li&gt;&#xA;&lt;li&gt;Keisuke Miyanabe, Katsuya Suto, Zubair Md. Fadlullah, Hiroki Nishiyama, Nei Kato, Hirotaka Ujikawa, and Ken-Ichi Suzuki, “A Cloud Radio Access Network with Power over Fiber toward 5G Network: QoE-Guaranteed Design and Operation,” IEEE Wireless Communications, vol. 22, no. 4, pp. 58-64, Aug. 2015.&lt;/li&gt;&#xA;&lt;li&gt;Katsuya Suto, Hiroki Nishiyama, Nei Kato, and Chih-Wei Huang, “An Energy-Efficient and Delay-Aware Wireless Computing System for Industrial Wireless Sensor Networks,” IEEE Access, vol. 3, pp.1026-1035, Jul. 2015.&lt;/li&gt;&#xA;&lt;li&gt;Katsuya Suto, Hiroki Nishiyama, Nei Kato, Kimihiro Mizutani, Osamu Akashi, and Atsushi Takahara, “An Overlay-based Data Mining Architecture Tolerant to Physical Network Disruptions,” IEEE Transactions on Emerging Topics in Computing, vol. 2, no. 3, pp. 292-301, Oct. 2014.&lt;/li&gt;&#xA;&lt;li&gt;Katsuya Suto, Hiroki Nishiyama, Nei Kato, Takayuki Nakachi, Tatsuya Fujii, and Atsushi Takahara, “Toward Integrating Overlay and Physical Networks for Robust Parallel Processing Architecture,” IEEE Network, vol. 28, no. 4, pp. 40-45, Jul-Aug. 2014.&lt;/li&gt;&#xA;&lt;li&gt;Katsuya Suto, Hiroki Nishiyama, Nei Kato, Takayuki Nakachi, Tatsuya Fujii, and Atsushi Takahara, “THUP: A P2P Network Robust to Churn and Attack based on Bimodal Degree Distribution,” IEEE Journal on Selected Areas in Communications, vol. 31, no. 9, pp. 247-256, Sep. 2013.&lt;/li&gt;&#xA;&lt;li&gt;Katsuya Suto, Hiroki Nishiyama, Sherman Shen, and Nei Kato, “Designing P2P Networks Tolerant to Attacks and Faults based on Bimodal Degree Distribution,” Academy Publisher Journal of Communications, vol. 7, no. 8, pp. 587-595, Aug. 2012.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;conference&#34;&gt;国際会議発表論文 - Conference&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Issa Matsumura and Katsuya Suto, &amp;ldquo;Wireless Resource Efficient Distributed Learning with Deep Joint Source-Channel Coding,&amp;rdquo; IEEE Global Communications Conference Workshop on Ubiquitous Network Intelligence for Next Generation Wireless Networks, Dec. 2024, pp.1-6.&lt;/li&gt;&#xA;&lt;li&gt;Yuyang Fu and Katsuya Suto, &amp;ldquo;Latent Space Encryption with Piecewise Linear Chaotic Map for Enhanced Secure Deep Joint Source Channel Coding,&amp;rdquo; IEEE Global Communications Conference Workshop on Ubiquitous Network Intelligence for Next Generation Wireless Networks, Dec. 2024, pp.1-6.&lt;/li&gt;&#xA;&lt;li&gt;Shimon Takagi, Shinsuke Bannai, Koya Sato, Takeo Fujii and Katsuya Suto, &amp;ldquo;Radio Propagation Graph Representation Learning: An Implementation in Multi-Hop Path Representation,&amp;rdquo; IEEE 35th Annual International Symposium on Personal, Indoor and Mobile Radio Communications, Sep. 2024, pp.1-7.&lt;/li&gt;&#xA;&lt;li&gt;Shinsuke Bannai and Katsuya Suto, &amp;ldquo;[Poster] Blockage Prediction with Pseudo-LiDAR Signature for mmWave V2I Communications,&amp;rdquo; ASPIRE 2024 Green IoT workshop,  Mar. 2024, pp. 1.&lt;/li&gt;&#xA;&lt;li&gt;Shinsuke Bannai and Katsuya Suto, &amp;ldquo;Stereo-Aided Blockage Prediction for mmWave V2X Communications,&amp;rdquo; International Conference on Computing, Networking and Communications 2024, Feb. 2024, pp. 1-5.&lt;/li&gt;&#xA;&lt;li&gt;George Karimata, Jin Nakazato, Gia Khanh Tran, Katsuya Suto, Manabu Tsukada, and Hiroshi Esaki, &amp;ldquo;Multi-UAVs Strategies for Ad Hoc Network with Multi-Agent Reinforcement Learning,&amp;rdquo; International Conference on Information Networking  2024, Jan. 2024, pp. 1-4.&lt;/li&gt;&#xA;&lt;li&gt;Junichiro Yamada and Katsuya Suto, &amp;ldquo;[Poster] Deep Joint Source-Channel Coding with Optimal Compression Rate for mmWave Mobile Image Transmission,&amp;rdquo; IEEE Consumer Communications &amp;amp; Networking Conference 2024, Jan. 2024, pp. 1-2.&lt;/li&gt;&#xA;&lt;li&gt;Masaaki Miura and Katsuya Suto, &amp;ldquo;[Poster] Performance Analysis for IRS-Assisted SWIPT with Geometry-Based Phase Shift,&amp;rdquo; IEEE Consumer Communications &amp;amp; Networking Conference 2024, Jan. 2024, pp. 1-2.&lt;/li&gt;&#xA;&lt;li&gt;Shota Yamada, Takeo Fujii, Katsuya Suto, and Koya Sato, &amp;ldquo;Observation Data and 3D Map-Based Radio Environment Estimation for Drone Wireless Communications,&amp;rdquo; ICUFN2023 Workshop on SRIoT, July 2023, pp. 70-75.&lt;/li&gt;&#xA;&lt;li&gt;Masaaki Miura, Katsuya Suto, Koya Sato, and Onel Luis Alcaraz López, &amp;ldquo;Performance Analysis for IRS-Assisted SWIPT with Optimal Phase Shift under Spatially Correlated Fading Channels,&amp;rdquo; IEEE 97th Vehicular Technology Conference, June 2023, pp. 1-5.&lt;/li&gt;&#xA;&lt;li&gt;Katsuya Suto, Shinsuke Bannai, Koya Sato, and Takeo Fujii, &amp;ldquo;Propagation Graph Representation Learning and Its Implementation in Direct Path Representation,&amp;rdquo; 8th IEEE WCNC International Workshop on Smart Spectrum (IWSS 2023), Mar. 2023, pp. 1-6.&lt;/li&gt;&#xA;&lt;li&gt;Junichiro Yamada and Katsuya Suto, “[Poster] Exploring Pseudo-Analog Video Transmission for Edge-AI Vision Applications,&amp;quot; IEEE Consumer Communications &amp;amp; Networking Conference 2023, Jan. 2023, pp. 1-2.&lt;/li&gt;&#xA;&lt;li&gt;Kohei Kato, Katsuya Suto, and Koya Sato, “Deterministic Video Streaming with Deep Learning Enabled Base Station Intervention for Stable Remote Driving System,&amp;quot; IEEE International Conference on Communications Workshop on TsDN, Online, June 2021, pp. 1-6.&lt;/li&gt;&#xA;&lt;li&gt;Takeru Terauchi, Katsuya Suto, and Masashi Wakaiki, “Harvest-Then-Transmit-Based TDMA Protocol with Statistical Channel State Information for Wireless Powered Sensor Networks,&amp;quot; IEEE 93th Vehicular Technology Conference, Online, Apr. 2021, pp. 1-5.&lt;/li&gt;&#xA;&lt;li&gt;Shinsuke Bannai and Katsuya Suto, “Spatial Extrapolation with Generative Adversarial Networks for Radio Map Construction,&amp;quot;  International Conference on Emerging Technologies for Communications, Online, Dec. 2020, p. 1.&lt;/li&gt;&#xA;&lt;li&gt;Riku Hashimoto and Katsuya Suto, “On Radio Propagation Estimation based on Deep Learning with Convolution and Self-attention,&amp;quot; International Conference on Emerging Technologies for Communications, Online, Dec. 2020, p. 1.&lt;/li&gt;&#xA;&lt;li&gt;Riku Hashimoto and Katsuya Suto, “SICNN: Spatial Interpolation with Convolutional Neural Networks for Radio Environment Mapping,” International Conference on Artificial Intelligence in Information and Communication, Fukuoka, Japan, Feb. 2020, pp. 1-4.&lt;/li&gt;&#xA;&lt;li&gt;Katsuya Suto and Riku Hashimoto, “Crowdsensing Based Spectrum Database with Total Variation Regularization,” IEEE DySPAN 2019 Workshop on Data-Driven Dynamic Spectrum Sharing, Newark, USA, Nov. 2019, pp. 1-6.&lt;/li&gt;&#xA;&lt;li&gt;Masashi Wakaiki, Katsuya Suto, and Izumi Masubuchi, “Privacy-preserved Cell Zooming with Distributed Optimization in Green Networks,” IEEE 90th Vehicular Technology Conference, Honolulu, USA, Sep. 2019, pp. 1-5.&lt;/li&gt;&#xA;&lt;li&gt;Tiago Gama Rodrigues, Katsuya Suto, and Nei Kato, “Hyperparameter Study of Machine Learning Solutions for the Edge Server Deployment Problem,” IEEE 90th Vehicular Technology Conference, Honolulu, USA, Sep. 2019, pp. 1-5.&lt;/li&gt;&#xA;&lt;li&gt;Masashi Wakaiki, Katsuya Suto, Kenta Koiwa, Kang-Zhi Liu, and Tadanao Zanma, “Model Predictive Cell Zooming for Energy-harvesting Small Cell Networks,” IEEE International Conference on Communications, Kansas, USA, May 2018, pp. 1-6.&lt;/li&gt;&#xA;&lt;li&gt;Shan Zhang, Peter He, Katsuya Suto, Peng Yang, Lian Zhao, and Sherman Shen, “Traffic Steering Assisted Mobile Edge Caching: Exploiting Spatial Content Diversity Gain,” IEEE Global Communications Conference, Singapore, Dec. 2017, pp, 1-6.&lt;/li&gt;&#xA;&lt;li&gt;Tiago Gama Rodrigues, Katsuya Suto, Hiroki Nishiyama, and Nei Kato, “A PSO Model with VM Migration and Transmission Power Control for Low Service Delay in the Multiple Cloudlets ECC Scenario,” IEEE International Conference on Communications, Paris, France, May 2017, pp. 1-6.&lt;/li&gt;&#xA;&lt;li&gt;Katsuya Suto, Tiago Gama Rodrigues, Hiroki Nishiyama, Nei Kato, Hirotaka Ujikawa, and Ken-Ichi Suzuki, “QoE-Guaranteed and Sustainable User Position Guidance for Post-Disaster Cloud Radio Access Network,” IEEE Global Communications Conference, Washington, DC USA, Dec. 2016, pp. 1-6.&lt;/li&gt;&#xA;&lt;li&gt;Tiago Gama Rodrigues, Katsuya Suto, Hiroki Nishiyama, Nei Kato, Kimihiro Mizutani, Takeru Inoue, and Osamu Akashi, “Towards a Low-Delay Edge Cloud Computing Through a Combined Communication and Computation Approach,” IEEE 84th Vehicular Technology Conference, Montreal, Canada, Sep. 2016, pp. 1-6. （Invited Paper）&lt;/li&gt;&#xA;&lt;li&gt;Hideki Kuribayashi, Katsuya Suto, Hiroki Nishiyama, Nei Kato, Kimihiro Mizutani, Takeru Inoue, and Osamu Akashi, “A Mobility-Based Mode Selection Technique for Fair Spatial Dissemination of Data in Multi-Channel Device-to-Device Communication,” IEEE International Conference on Communications, Kuala Lumpur, Malaysia, May 2016, pp. 1-6. （Best Paper Award）&lt;/li&gt;&#xA;&lt;li&gt;Yunseong Lee, Katsuya Suto, Hiroki Nishiyama, Nei Kato, Hirotaka Ujikawa, and Ken-Ichi Suzuki, “A Novel Network Design and Operation for Reducing Transmission Power in Cloud Radio Access Network with Power over Fiber,” IEEE/CIC International Conference on Communications in China, Shenzhen, China, Nov. 2015, pp. 1-5. （Best Paper Award）&lt;/li&gt;&#xA;&lt;li&gt;Katsuya Suto, Hiroki Nishiyama, Nei Kato, Takayuki Nakachi, Toshikazu Sakano, and Atsushi Takahara, “A Failure-Tolerant and Spectrum-Efficient Wireless Data Center Network Design for Improving Performance of Big Date Mining,” IEEE 81th Vehicular Technology Conference, Glasgow, Scotland, May 2015, pp. 1-5. （Encouragement Award）&lt;/li&gt;&#xA;&lt;li&gt;Katsuya Suto, Hiroki Nishiyama, and Nei Kato, “Context-aware Task Allocation for Fast Parallel Big Data Processing in Optical-Wireless Networks,” International Wireless Communications and Mobile Computing Conference, Nicosia, Cyprus, Aug. 2014, pp. 423-428. （Invited Paper）&lt;/li&gt;&#xA;&lt;li&gt;Shintaro Arai, Katsuya Suto, and Hiroki Nishiyama, “An Energy Efficient Upload Transmission Method in Storage-Embedded Wireless Mesh Networks,” IEEE International Conference on Communications, Sydney, Australia, Jun. 2014, pp. 2785-2790.&lt;/li&gt;&#xA;&lt;li&gt;Katsuya Suto, Hiroki Nishiyama, Nei Kato, Takayuki Nakachi, Tatsuya Fujii, and Atsushi Takahara, “An Overlay Network Construction Technique for Minimizing the Impact of Physical Network Disruption in Cloud Storage Systems,” International Conference on Computing, Networking and Communications, Honolulu, Hawaii, USA, Feb. 2014, pp. 68-72.&lt;/li&gt;&#xA;&lt;li&gt;Katsuya Suto, Panu Avakul, Hiroki Nishiyama, and Nei Kato, “An Efficient Data Transfer Method for Distributed Storage System over Satellite Networks,” IEEE 77th Vehicular Technology Conference, Dresden, Germany, Jun. 2013, pp. 1-5. （Best Paper Award）&lt;/li&gt;&#xA;&lt;li&gt;Katsuya Suto, Hiroki Nishiyama, Hideaki Yoshino, Keisuke Ishibashi, and Nei Kato, “A Method to Construct an Attack and Fault Tolerant Scalable Distributed Network,” International Conference on Communications, Mobility, and Computing, Guilin, China, May 2012, pp. 1-5.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;invite&#34;&gt;招待講演，チュートリアル - Invited Talk, Tutorial&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;佐藤光哉, 須藤克弥, &amp;ldquo;[依頼講演] 適応的実験計画法に基づく効率的無線システム設計,&amp;rdquo; IEICE RCS研究会, 2024年10月.&lt;/li&gt;&#xA;&lt;li&gt;須藤克弥, &amp;ldquo;[招待講演]自動運転を支える意味を伝える映像伝送技術,” IEEE Japan Council Engineer Spotlight, 2024年9月.&lt;/li&gt;&#xA;&lt;li&gt;須藤克弥, &amp;ldquo;[パネルセッション]深化・学際化する無線分野における人材育成のあり方,” 第５回電波利活用強靭化に向けた電波COEシンポジウム, 2024年6月.&lt;/li&gt;&#xA;&lt;li&gt;Katsuya Suto, &amp;ldquo;Deep Learning and Its Applications to Radio Map Construction (Keynote),&amp;rdquo; The 5th ASEAN – UEC Workshop on Informatics and Engineering, Sep. 2023.&lt;/li&gt;&#xA;&lt;li&gt;Katsuya Suto, &amp;ldquo;Deep Learning and Its Applications to Radio Map Construction (Tutorial),&amp;rdquo; The 4th International Conference on Artificial Intelligence in Information and Communication, Feb. 2022.&lt;/li&gt;&#xA;&lt;li&gt;須藤克弥, &amp;ldquo;[チュートリアル講演]電波伝搬推定における深層学習の基礎と応用,” PIF・PN研究会共催チュートリアル講演会, 2022年2月.&lt;/li&gt;&#xA;&lt;li&gt;Katsuya Suto, &amp;ldquo;How We Recognize Radio Environment with Deep Learning (Tutorial),&amp;rdquo; IEICE SmartCom Virtual Workshop, Jan. 2022. &lt;a href=&#34;https://ainet-lab.github.io/pdf/lecture_smartcom.pdf&#34;&gt;Slide&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;須藤克弥, &amp;ldquo;[依頼講演] 電波環境イメージングの現状と将来展望,&amp;rdquo; IEICE SR研究会, 2021年11月.&lt;/li&gt;&#xA;&lt;li&gt;須藤克弥, &amp;ldquo;[依頼講演] 3次元地図から電波マップを構築する深層生成モデル技術,&amp;rdquo; 「将来無線のレイヤレスデザインとその応用」研究会, Feb 2021.&lt;/li&gt;&#xA;&lt;li&gt;Katsuya Suto, &amp;ldquo;Crowdsensing-based Spectrum Database for IoT with Intelligence (Invited Talk),&amp;rdquo; Northeast Asia Symposium on IoT with Intelligence 2019, Sept. 2019.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;contribution&#34;&gt;寄稿記事・解説 - Contributed Article&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;須藤克弥, &amp;ldquo;深層学習による電波環境可視化技術〜B5G時代の自動運転、ドローンの通信信頼性〜,&amp;rdquo; 車載テクノロジー, vol. 11, no. 3, pp. 59-64, 2023年12月.&lt;/li&gt;&#xA;&lt;li&gt;佐藤光哉, 藤井威生, 須藤克弥, &amp;ldquo;電波環境の可視化&amp;rdquo; 電子情報通信学会誌, vol. 104, no. 12, pp. 1234-1238, 2021年12月.&lt;/li&gt;&#xA;&lt;li&gt;須藤克弥, &amp;ldquo;デジタルツインを支える新たな無線通信システム,&amp;rdquo; 電波技術協会会報 FORN, vol. 2021-7, no. 341, pp. 22-25, 2021年7月.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;domestic&#34;&gt;国内学会・研究会発表論文 - Demestic Conference&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;中里仁, 佐々木友基, 丸田一輝, 三浦優明, 須藤克弥, 伊丹豪, エスビーチャー, アロキアネイサン, &amp;ldquo;NCR-based mmWave Mesh Networkの実機開発と設置検討について,&amp;rdquo; 信学技報, vol. 124, no. 311, pp. 86-91, Dec. 2024.&lt;/li&gt;&#xA;&lt;li&gt;宗秀哉, 中里仁, Gia Khanh Tran, 須藤克弥, &amp;ldquo;マルチエージェント強化学習を用いた協調制御型UAVネットワークにおけるUAV配置方法の検討,&amp;rdquo; 信学技報, vol. 124, no. 253, pp. 7-12, Nov. 2024.&lt;/li&gt;&#xA;&lt;li&gt;三浦優明, 中里仁, Arokia Nathan, S.B.Cha, 須藤克弥, &amp;ldquo;Performance Evaluation Model for the mmWave Smart Repeater System.&amp;rdquo; 電子情報通信学会ソサイエティ大会, BB-5A-17, Sept. 2024.&lt;/li&gt;&#xA;&lt;li&gt;中里仁, Gia Khanh Tran, 須藤克弥, &amp;ldquo;自立型制御UAVに向けたマルチエージェント強化学習による配置方法ついて,&amp;rdquo; 信学技報, vol. 124, no. 52, pp. 45-50, May 2024.&lt;/li&gt;&#xA;&lt;li&gt;高木志門, 須藤克弥, &amp;ldquo;電波伝搬グラフ表現学習のマルチホップパス表現での実装,&amp;rdquo; 信学技報, vol. 124, no. 41, pp. 55-57, May 2024.&lt;/li&gt;&#xA;&lt;li&gt;松村一冴, 須藤克弥, &amp;ldquo;過学習抑制のための情報源・通信路深層結合符号を用いた分散型学習,&amp;rdquo; 信学技報, vol. 124, no. 41, pp. 58-60, May 2024.&lt;/li&gt;&#xA;&lt;li&gt;佐藤光哉, 須藤克弥, &amp;ldquo;空間相関を有する大規模通信路知識マップの低演算量シミュレーション法,&amp;rdquo; 信学技報, vol. 124, no. 41, pp. 61-63, May 2024.&lt;/li&gt;&#xA;&lt;li&gt;山田準一郎, 須藤克弥, &amp;ldquo;UAVミリ波通信における時間選択性フェージングを考慮した情報源・通信路深層結合符号に関する一考察,&amp;rdquo; 電子情報通信学会総合大会, B-17-07, Mar. 2024.&lt;/li&gt;&#xA;&lt;li&gt;坂内信允, 須藤克弥, &amp;ldquo;ミリ波V2I通信における擬似LiDARを利用した遮蔽予測モデル,&amp;rdquo; 電子情報通信学会総合大会, B-17-19, Mar. 2024.&lt;/li&gt;&#xA;&lt;li&gt;須藤克弥, 松村一冴, 山田準一郎, &amp;ldquo;情報源・通信路深層結合符号におけるモデル伝送に関する一考察,&amp;rdquo; 信学技報, vol. 123, no. 249, pp. 61-63, Nov. 2023.&lt;a href=&#34;https://ainet-lab.github.io/pdf/sr202311_corrections.pdf&#34;&gt;実験結果の訂正&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;付昱洋, 須藤克弥, &amp;ldquo;Deep Joint Source Channel Codingにおける視覚的秘匿性を向上するためのモデル共有・学習方式,&amp;rdquo; 信学技報, vol. 123, no. 249, pp. 64-66, Nov. 2023.&lt;/li&gt;&#xA;&lt;li&gt;坂内信允, 須藤克弥, &amp;ldquo;ミリ波V2X通信におけるステレオビジョンによる高速な遮蔽予測,&amp;rdquo; 信学技報, vol. 123, no. 249, pp. 99-101, Nov. 2023.&lt;/li&gt;&#xA;&lt;li&gt;三浦優明, 須藤克弥, &amp;ldquo;［ポスター講演］空間相関を有するライスフェージングチャネルにおけるIRS-Assisted SWIPTの性能解析,&amp;rdquo; MIKA2023, Oct. 2023.&lt;/li&gt;&#xA;&lt;li&gt;坂内信允, 須藤克弥, &amp;ldquo;［ポスター講演］ミリ波V2X通信におけるステレオカメラを用いた遮蔽予測,&amp;rdquo; MIKA2023, Oct. 2023.&lt;/li&gt;&#xA;&lt;li&gt;高木志門, 坂内信允, 須藤克弥, &amp;ldquo;［ポスター講演］電波伝搬グラフ表現学習におけるフレネルゾーンを用いたパス構築,&amp;rdquo; MIKA2023, Oct. 2023.&lt;/li&gt;&#xA;&lt;li&gt;須藤克弥, 坂内信允, 佐藤光哉, 藤井威生, &amp;ldquo;電波伝搬グラフ表現学習,&amp;rdquo; 信学技報, vol. 123, no. 109, pp. 19-24, Jul. 2023.&lt;/li&gt;&#xA;&lt;li&gt;藤井和貴, 須藤克弥, &amp;ldquo;ヌル化を用いた情報信号のパス分離によるセキュアなSWIPT,&amp;rdquo; 信学技報, vol. 123, no. 19, pp. 61-63, May 2023.&lt;/li&gt;&#xA;&lt;li&gt;山田準一郎, 須藤克弥, &amp;ldquo;圧縮率可変なDeep Joint Source Channel Coding,&amp;rdquo; 信学技報, vol. 123, no. 19, pp. 58-60, May 2023.&lt;/li&gt;&#xA;&lt;li&gt;美濃夏貴, 須藤克弥, &amp;ldquo;超解像を活用したWebRTCにおける軽量深層学習モデルに関する検討,&amp;rdquo; 信学技報, vol. 122, no. 406, pp. 368-371, Mar. 2023.&lt;/li&gt;&#xA;&lt;li&gt;須藤克弥, 坂内信允, &amp;ldquo;ドローンを用いた電波観測による3次元空間補間性能の実験的評価,&amp;rdquo; 信学技報, vol. 122, no. 243, pp. 94-96, Nov. 2022.&lt;/li&gt;&#xA;&lt;li&gt;藤井和貴, 須藤克弥, &amp;ldquo;静的遮蔽空間における通信品質改善のためのIRS配置手法,&amp;rdquo; 信学技報, vol. 122, no. 107, pp. 54-60, Jul. 2022.&lt;/li&gt;&#xA;&lt;li&gt;山田準一郎, 須藤克弥, &amp;ldquo;疑似アナログ通信方式を用いた物体検出AIの精度評価,&amp;rdquo;  信学技報, vol. 122, no. 107, pp. 36-40, Jul. 2022.&lt;/li&gt;&#xA;&lt;li&gt;坂内信允, 須藤克弥, &amp;ldquo;低SNR信号を含む電波環境における距離減衰モデルに関する研究,&amp;rdquo; 信学技報, vol. 121, no. 392, pp. 118-120, Feb. 2022.&lt;/li&gt;&#xA;&lt;li&gt;山田準一郎, 須藤克弥, &amp;ldquo;疑似アナログ通信方式を用いた路側映像ブロードキャスト,&amp;rdquo; 信学技報, vol. 121, no. 345, pp. 96-98, Jan. 2022.&lt;/li&gt;&#xA;&lt;li&gt;加藤耕平, 須藤克弥, &amp;ldquo;車両遠隔監視における基地局介入型映像伝送手法,&amp;rdquo; 電子情報通信学会ソサイエティ大会, B-6-24, Sept. 2021.&lt;/li&gt;&#xA;&lt;li&gt;寺内健, 須藤克弥, 若生将史, &amp;ldquo;無線給電センサネットワークにおける統計的チャネル品質に基づいたタイムスロット割り当て手法に関する一考察,&amp;rdquo; 信学技報, vol. 121, no. 104, pp. 81-86, Jul. 2021.&lt;/li&gt;&#xA;&lt;li&gt;坂内信允, 須藤克弥, &amp;ldquo;3次元地図を用いた深層生成モデルによる電波マップ構築手法,&amp;rdquo; 信学技報, vol. 120, no. 238, pp. 114-119, Nov. 2020.&lt;/li&gt;&#xA;&lt;li&gt;坂内信允, 須藤克弥, &amp;ldquo;深層生成モデルによる電波伝搬推定手法に関する一考察,&amp;rdquo; 電子情報通信学会通信ソサイエティ大会, B-17-20, Sept. 2020.&lt;/li&gt;&#xA;&lt;li&gt;橋本理公, 須藤克弥, &amp;ldquo;畳み込みニューラルネットワークを用いた電波環境マップの空間補間に関する一考察,&amp;rdquo; 電子情報通信学会総合大会, B-17-7, Mar. 2020.&lt;/li&gt;&#xA;&lt;li&gt;Katsuya Suto, Masashi Wakaiki, &amp;ldquo;Q-Leaning based Cell Zooming for Energy-Harvesting Small Cell Networks,&amp;rdquo; 信学技報, vol. 118, no. 274, pp. 9-10 Oct. 2018.&lt;/li&gt;&#xA;&lt;li&gt;Tiago Gama Rodrigues, Katsuya Suto, Hiroki Nishiyama, Nei Kato, and Katsuhiro Temma, &amp;ldquo;Resource Efficiency in Mobile Edge Computing: cross-Acceleration Study of Particle Swarm Optimization,&amp;rdquo; 電子情報通信学会総合大会, B-11-10, Mar. 2018.&lt;/li&gt;&#xA;&lt;li&gt;Tiago Gama Rodrigues, Katsuya Suto, Hiroki Nishiyama, Nei Kato, &amp;ldquo;Parameter Analysis for the Application of Particle Swarm Optimization to the Multiple Cloudlets Edge Cloud Computing Problem,&amp;rdquo; 電子情報通信学会ソサイエティ大会, B-11-8, 2017年9月.&lt;/li&gt;&#xA;&lt;li&gt;西山大樹，須藤克弥，山田直人, &amp;ldquo;災害時の通信インフラ復旧の在り方を変えるリジリエントなネットワーク技術の実現に向けて,&amp;rdquo; 電子情報通信学会ソサイエティ大会, 2015年9月.&lt;/li&gt;&#xA;&lt;li&gt;齋藤悠, 須藤克弥, 西山大樹, 加藤寧, &amp;ldquo;無線データセンタにおける規模と耐障害性の関係の評価,&amp;rdquo; 電気関係学会東北支部連合大会, 2015年8月.&lt;/li&gt;&#xA;&lt;li&gt;Katsuya Suto, Hiroki Nishiyama, and Nei Kato, &amp;ldquo;Resource-Efficient Data Placement for MapReduce in Wireless Data Center Networks,&amp;rdquo; 電子情報通信学会総合大会, 2015年3月.&lt;/li&gt;&#xA;&lt;li&gt;須藤克弥，西山大樹，加藤寧, &amp;ldquo;広域分散ストレージシステムにおける効率的データ転送方式,&amp;rdquo; 電子情報通信学会ソサイエティ大会, 2013年9月.&lt;/li&gt;&#xA;&lt;li&gt;須藤克弥, 西山大樹, 加藤寧, 仲地孝之, 藤井竜也, 高原厚, &amp;ldquo;仮想ストレージにおけるiSCSI通信の基礎実験,&amp;rdquo; 電子情報通信学会総合大会, 2013年3月.&lt;/li&gt;&#xA;&lt;li&gt;Katsuya Suto, Hiroki Nishiyama, and Nei Kato, &amp;ldquo;A Study on Distributed Storage System with Erasure Coding over Satellite Networks,&amp;rdquo; 信学技報, vol. 112, no. 255, pp. 131-135, Oct. 2012.&lt;/li&gt;&#xA;&lt;li&gt;須藤克弥, 西山大樹, 加藤寧, 仲地孝之, 藤井竜也, 高原厚, &amp;ldquo;攻撃・離脱に強い階層型P2Pネットワークトポロジに関する一考察,&amp;rdquo; 信学技報, vol. 112, no. 231, pp. 19-24, Oct. 2012.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;patent&#34;&gt;特許 - Patent&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;須藤克弥, 坂内信允, &amp;ldquo;電波伝搬推定システム、電波伝搬推定方法および生成部の製造方法,&amp;rdquo; 特許第7569072号 , 2024年10月.&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
     <item>
       <title>研究室HP更新しました</title>
       <link>https://ainet-lab.github.io/post/publish/</link>
       <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/publish/</guid>
-      <description>須藤研究室のWeb PageをGithub pages + Hugoの環境に移行しました． テーマはシンプルで使いやすいblackburnを使っています． 開発</description>
+      <description>&lt;p&gt;須藤研究室のWeb PageをGithub pages + Hugoの環境に移行しました．&lt;br&gt;&#xA;テーマはシンプルで使いやすい&lt;a href=&#34;https://github.com/yoshiharuyamashita/blackburn&#34;&gt;blackburn&lt;/a&gt;を使っています．&lt;br&gt;&#xA;開発者のyoshiharu yamashitaさんに感謝の意を示します．&lt;br&gt;&#xA;&lt;a href=&#34;http://www.ainet.lab.uec.ac.jp&#34;&gt;Wordpressの旧HP&lt;/a&gt;はコンテンツを移行しつつ，年度内に閉鎖します．&lt;/p&gt;</description>
     </item>
     <item>
       <title>電波技術協会報 FORNにて記事を寄稿</title>
       <link>https://ainet-lab.github.io/post/20211018/</link>
       <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/20211018/</guid>
-      <description>須藤助教が2021年7月発行の電波技術協会報 FORNにて「デジタルツインを支える新たな無線通信システム」について記事を寄稿しました。</description>
+      <description>&lt;p&gt;須藤助教が2021年7月発行の電波技術協会報 FORNにて「デジタルツインを支える新たな無線通信システム」について記事を寄稿しました。&lt;/p&gt;&#xA;&#xA;&lt;div class=&#34;pure-u-1-2&amp;#34;&#34;&gt;&#xA;  &lt;img class=&#34;pure-img&#34; src=&#34;https://ainet-lab.github.io/image/20211018.jpg&#34; &gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>寺内（M2）が電子情報通信学会SR研究会@Zoomで発表</title>
       <link>https://ainet-lab.github.io/post/202110181/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/202110181/</guid>
-      <description>2021年07月14日~16日に開催された電子情報通信学会SR研究会@Zoomで寺内（M2）が「無線給電センサネットワークにおける統計的チャ</description>
+      <description>&lt;p&gt;2021年07月14日~16日に開催された電子情報通信学会SR研究会@Zoomで寺内（M2）が「無線給電センサネットワークにおける統計的チャネル品質に基づいたタイムスロット割り当て手法に関する一考察」の発表を行いました．&lt;/p&gt;</description>
     </item>
     <item>
       <title>JST ASPIRE</title>
       <link>https://ainet-lab.github.io/post/aspire/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/aspire/</guid>
-      <description>About This Project Resilient Cyberspace Generative Framework with Communication, Sensing and Learning Integration (ReCygne) is a JST ASPIRE project consisting of Japan resaerch team (UEC and TIT) and UOulue and UWindsor. ReCygne aimst to develop a cutting-edge cyber-physical fralework for resilient society development with aritifical intelligence. For this purpose, we have research collabtation with three technical experts, i.e., semantic communications, data-drive sensing, and distributed learning.&#xA;Team PI: Dr. Katsuya Suto, The University of Electro-Communications Co-PI: Dr.</description>
+      <description>&lt;h2 id=&#34;about-this-project&#34;&gt;About This Project&lt;/h2&gt;&#xA;&lt;p&gt;Resilient Cyberspace Generative Framework with Communication, Sensing and Learning Integration (ReCygne) is a JST ASPIRE project consisting of Japan resaerch team (UEC and TIT) and UOulue and UWindsor. ReCygne aimst to develop a cutting-edge cyber-physical fralework for resilient society development with aritifical intelligence. For this purpose, we have research collabtation with three technical experts, i.e., semantic communications, data-drive sensing, and distributed learning.&lt;/p&gt;&#xA;&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;PI: Dr. Katsuya Suto, The University of Electro-Communications&lt;/li&gt;&#xA;&lt;li&gt;Co-PI: Dr. Takayuki Nishio, Tokyo Institute of Technology&lt;/li&gt;&#xA;&lt;li&gt;Co-PI: Dr. Koya Sato, The University of Electro-Communications&lt;/li&gt;&#xA;&lt;li&gt;PI in Candada: Dr. Ning Zhang, University of Windsor&lt;/li&gt;&#xA;&lt;li&gt;PI in Finland: Dr. Mehdi Bennis, University of Oulu&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;collaboration&#34;&gt;Collaboration&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tutorial: AI-native Communicaitons and Netwroking in IEICE society conference 2024 (Presented by Dr. Ning and Dr. Mehdi)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;research-achivement&#34;&gt;Research Achivement&lt;/h2&gt;&#xA;&lt;p&gt;to be updated&lt;/p&gt;</description>
     </item>
     <item>
       <title>RadioTwin：無線資源を正確に認識・制御</title>
       <link>https://ainet-lab.github.io/post/rt/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/rt/</guid>
-      <description>概要 現実世界をデジタル空間上に構築し、モニタリングやシミュレーションを行うことで、あらゆる社会サービスをより良くする意思決定を行うデジタルツ</description>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;&#xA;&lt;p&gt;現実世界をデジタル空間上に構築し、モニタリングやシミュレーションを行うことで、あらゆる社会サービスをより良くする意思決定を行うデジタルツインの実現が期待されています。一方で、現実世界とデジタル空間を繋ぐ無線通信はより重要になるため、現実世界の無線資源をデジタル化（可視化）する技術の確立が望まれます。そこで我々の研究グループでは、現実世界の無線資源をモニタリング・シミュレーションし、無線資源をより有効に使うための意思決定を行う技術（RadioTwin）の創出を目指しています。現在は、以下の研究に取り組んでいます。&lt;/p&gt;</description>
     </item>
     <item>
       <title>SemanticComm：コミュニケーションしながら進化する通信方式</title>
       <link>https://ainet-lab.github.io/post/sc/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/sc/</guid>
-      <description>概要 これまでの通信技術は送りたい情報を全て確実に伝送することを目的として設計されてきました。一方、人間のコミュニケーションでは、少ない情報か</description>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;&#xA;&lt;p&gt;これまでの通信技術は送りたい情報を全て確実に伝送することを目的として設計されてきました。一方、人間のコミュニケーションでは、少ない情報から相手の伝えたいことを推察しながら意思疎通をします。友達や家族など仲が良くなるほど情報少なくできるようにコミュニケーションを学習します。この人間のコミュニケーションのように、特定の相手と通信を繰り返しながら学習することで「伝えたい意味」だけを圧縮して通信する方式の研究を進めています。&lt;/p&gt;</description>
     </item>
     <item>
       <title>情報伝送基礎：Fundamentals of Information Transmission</title>
       <link>https://ainet-lab.github.io/post/fit/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/post/fit/</guid>
-      <description>前期木曜3限開講。 Google Classromで情報を公開します。クラスコードは講義中にお伝えいたします。 質問がある人は須藤までメールをください。</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;前期木曜3限開講。&lt;/li&gt;&#xA;&lt;li&gt;Google Classromで情報を公開します。クラスコードは講義中にお伝えいたします。&lt;/li&gt;&#xA;&lt;li&gt;質問がある人は須藤までメールをください。&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>About</title>
       <link>https://ainet-lab.github.io/research/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/research/</guid>
-      <description>Hugo is a static site engine written in Go.&#xA;It makes use of a variety of open source projects including: Screenshot Cobra Viper J Walter Weatherman Cast Learn more and contribute on GitHub.&#xA;Setup Some fun facts about Hugo:&#xA;Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim Have questions or suggestions? Feel free to open an issue on GitHub or ask me on Twitter.</description>
+      <description>&lt;p&gt;Hugo is a static site engine written in Go.&lt;/p&gt;&#xA;&lt;p&gt;It makes use of a variety of open source projects including:&#xA;&lt;figure class=&#34;center&#34;&gt;&lt;img src=&#34;https://ainet-lab.github.io/images/image02.png&#34; width=&#34;320&#34; height=&#34;640&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Screenshot&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;Cobra&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;Viper&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/jWalterWeatherman&#34;&gt;J Walter Weatherman&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cast&#34;&gt;Cast&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/spf13&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;setup&#34;&gt;Setup&lt;/h2&gt;&#xA;&lt;p&gt;Some fun facts about &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Built in &lt;a href=&#34;http://golang.org/&#34;&gt;Go&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Loosely inspired by &lt;a href=&#34;http://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Primarily developed by &lt;a href=&#34;http://spf13.com/&#34;&gt;spf13&lt;/a&gt; on the train while commuting to and from Manhattan.&lt;/li&gt;&#xA;&lt;li&gt;Coded in &lt;a href=&#34;http://vim.org&#34;&gt;Vim&lt;/a&gt; using &lt;a href=&#34;http://vim.spf13.com/&#34;&gt;spf13-vim&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Have questions or suggestions? Feel free to &lt;a href=&#34;https://github.com/spf13/hugo/issues/new&#34;&gt;open an issue on GitHub&lt;/a&gt; or &lt;a href=&#34;https://twitter.com/spf13&#34;&gt;ask me on Twitter&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>For Future Students/Postdocs</title>
       <link>https://ainet-lab.github.io/application_en/</link>
       <pubDate>Fri, 14 Oct 2011 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/application_en/</guid>
-      <description>We are looking for highly motivated master, PhD studens, and visiting scholars. If intersted, please feel free to contact me with your CV.&#xA;Our research topics of interst include but are not limited to:&#xA;RadioTwin (RT) team&#xA;Radio propagation modeling with deep graph represantation Simultaneous wireless information and power transfer with propagation control Computer vision aided milliwave communications SemanticCommunicaiton (SC) team&#xA;Deep learning for semantic communication and sensing Deep learning for video coding For PhD candidates, you can recive financial support if you want to join our research projects.</description>
+      <description>&lt;p&gt;We are looking for highly motivated master, PhD studens, and visiting scholars. If intersted, please feel free to contact me with your CV.&lt;/p&gt;&#xA;&lt;p&gt;Our research topics of interst include but are not limited to:&lt;/p&gt;&#xA;&lt;p&gt;RadioTwin (RT) team&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Radio propagation modeling with deep graph represantation&lt;/li&gt;&#xA;&lt;li&gt;Simultaneous wireless information and power transfer with propagation control&lt;/li&gt;&#xA;&lt;li&gt;Computer vision aided milliwave communications&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;SemanticCommunicaiton (SC) team&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Deep learning for semantic communication and sensing&lt;/li&gt;&#xA;&lt;li&gt;Deep learning for video coding&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For PhD candidates, you can recive financial support if you want to join our research projects.&#xA;For postcods, you can apply &lt;a href=&#34;https://www.jsps.go.jp/english/e-fellow/&#34;&gt;JSPS Postdoctoral Fellowships&lt;/a&gt; under our suppor of paperwork for the application.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Information for Applicants</title>
       <link>https://ainet-lab.github.io/application/</link>
       <pubDate>Fri, 14 Oct 2011 00:00:00 +0000</pubDate>
       <guid>https://ainet-lab.github.io/application/</guid>
-      <description>2024年11月24日のオープンキャンパスで研究室公開します．当日予約無しで，面談も受け付けます． 2025年度卒研配属の面談はこちらの予約ス</description>
+      <description>&lt;p&gt;&lt;span style=&#34;color: red; &#34;&gt;2024年11月24日のオープンキャンパスで研究室公開します．当日予約無しで，面談も受け付けます．&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p&gt;2025年度卒研配属の面談は&lt;a href=&#34;https://calendar.app.google/HmsqphBXGQnshoX9A&#34;&gt;こちらの予約スケジュール&lt;/a&gt;から登録をお願いします．&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
